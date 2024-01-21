@@ -1,5 +1,6 @@
 {
   "current": {
+    "logo": "shopify:\/\/shop_images\/scotty-browns-logo_ec101550-1fec-40f0-81cd-ab1d5ec0acf0.svg",
     "logo_width": 90,
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -175,12 +176,12 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "#0aa4dd",
-          "background_gradient": "linear-gradient(46deg, rgba(52, 133, 236, 1) 13%, rgba(23, 115, 176, 1) 85%)",
+          "background": "#334fb4",
+          "background_gradient": "",
           "text": "#ffffff",
-          "button": "#ff1191",
-          "button_label": "#f5f5f5",
-          "secondary_button_label": "#f22493",
+          "button": "#ffffff",
+          "button_label": "#334fb4",
+          "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
       }
