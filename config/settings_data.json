@@ -180,8 +180,8 @@
           "background_gradient": "linear-gradient(228deg, rgba(21, 209, 252, 1) 14%, rgba(23, 115, 176, 1) 81%)",
           "text": "#ffffff",
           "button": "#ff1191",
-          "button_label": "#ff1191",
-          "secondary_button_label": "#ffffff",
+          "button_label": "#f3f3f3",
+          "secondary_button_label": "#e90a82",
           "shadow": "#121212"
         }
       }
