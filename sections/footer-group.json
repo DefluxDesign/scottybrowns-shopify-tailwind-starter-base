@@ -5,19 +5,27 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_6DiTJi": {
+          "type": "text",
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+          }
+        },
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "THE LINE UP",
             "menu": "footer"
           }
         }
       },
       "block_order": [
+        "text_6DiTJi",
         "footer-0"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-5",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": false,
