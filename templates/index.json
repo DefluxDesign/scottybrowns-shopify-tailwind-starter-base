@@ -15,7 +15,7 @@
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
@@ -24,17 +24,17 @@
         "slide_GBDRwG": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "heading": "SB BIKE WORKSHOP",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
+            "subheading": "GIVE YOUR BIKE SOME LOVE",
+            "button_label": "BOOK HERE",
+            "link": "https:\/\/scottybrowns.com\/pages\/bike-workshop",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
         }
