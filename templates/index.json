@@ -133,6 +133,12 @@
     "collection_list_CDaGfK": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_JTBVqm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "collection-vendor-e-bike"
+          }
+        },
         "featured_collection_4V9DjP": {
           "type": "featured_collection",
           "settings": {
@@ -145,12 +151,6 @@
             "collection": "collection-vendor-gravel-bike"
           }
         },
-        "featured_collection_JTBVqm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "collection-vendor-e-bike"
-          }
-        },
         "featured_collection_nx6nBr": {
           "type": "featured_collection",
           "settings": {
@@ -159,9 +159,9 @@
         }
       },
       "block_order": [
+        "featured_collection_JTBVqm",
         "featured_collection_4V9DjP",
         "featured_collection_WRQPcc",
-        "featured_collection_JTBVqm",
         "featured_collection_nx6nBr"
       ],
       "settings": {
@@ -183,8 +183,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "#SBNOW",
+            "text": "",
             "link_label": "",
             "link": ""
           }
