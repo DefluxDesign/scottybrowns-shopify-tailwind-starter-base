@@ -154,13 +154,13 @@
       },
       "scheme-3": {
         "settings": {
-          "background": "#242833",
-          "background_gradient": "",
-          "text": "#ffffff",
-          "button": "#ffffff",
-          "button_label": "#000000",
+          "background": "#212b37",
+          "background_gradient": "linear-gradient(46deg, rgba(33, 43, 55, 1) 13%, rgba(64, 85, 110, 1) 85%)",
+          "text": "#f3f3f3",
+          "button": "#ff1191",
+          "button_label": "#f3f3f3",
           "secondary_button_label": "#ffffff",
-          "shadow": "#121212"
+          "shadow": "#1e2835"
         }
       },
       "scheme-4": {
