@@ -184,7 +184,7 @@
           "type": "column",
           "settings": {
             "title": "#SBNOW",
-            "text": "",
+            "text": "<p>&lt;div&gt;Hey Ya&lt;\/div&gt;<\/p>",
             "link_label": "",
             "link": ""
           }
