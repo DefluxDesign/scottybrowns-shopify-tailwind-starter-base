@@ -31,7 +31,7 @@
       "settings": {
         "logo_position": "top-center",
         "menu": "main-nav",
-        "menu_type_desktop": "drawer",
+        "menu_type_desktop": "dropdown",
         "sticky_header_type": "reduce-logo-size",
         "show_line_separator": true,
         "color_scheme": "scheme-5",
@@ -47,7 +47,7 @@
     "custom_liquid_C3fJAi": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<div id=\"GloboDesktopMenu\"><\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
