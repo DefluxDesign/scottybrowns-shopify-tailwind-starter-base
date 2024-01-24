@@ -3,6 +3,24 @@
     "slideshow_mfJYJV": {
       "type": "slideshow",
       "blocks": {
+        "slide_KPePpA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/scotty_bowns_new__cycling_apparel.webp",
+            "heading": "SB CYCLING KIT",
+            "heading_size": "h2",
+            "subheading": "NEW COLLECTION NOW AVAILABLE",
+            "button_label": "CHECK IT",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_GBhGBn": {
           "type": "slide",
           "settings": {
@@ -38,30 +56,12 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_KPePpA": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/scotty_bowns_new__cycling_apparel.webp",
-            "heading": "SB CYCLING KIT",
-            "heading_size": "h2",
-            "subheading": "NEW COLLECTION NOW AVAILABLE",
-            "button_label": "CHECK IT",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-5",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "slide_KPePpA",
         "slide_GBhGBn",
-        "slide_GBDRwG",
-        "slide_KPePpA"
+        "slide_GBDRwG"
       ],
       "settings": {
         "layout": "full_bleed",
