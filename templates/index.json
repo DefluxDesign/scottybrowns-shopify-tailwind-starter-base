@@ -185,18 +185,20 @@
           "type": "column",
           "settings": {
             "title": "#SBNOW",
-            "html_content": "<div class=\"elfsight-sapp-a4794930-a750-11e8-a569-a5a7389306f4\"><\/div>",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "html_content": "<div class=\"elfsight-sapp-a4794930-a750-11e8-a569-a5a7389306f4\"><\/div>"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
             "title": "WELCOME TO SCOTTY BROWNS BIKE EMPORIUM",
-            "html_content": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "html_content": ""
           }
         }
       },
