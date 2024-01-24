@@ -6,24 +6,24 @@
         "heading_97tKVt": {
           "type": "heading",
           "settings": {
-            "heading": "BIKE WORKSHOP",
+            "heading": "LIve Don'T WHAT IF!",
             "heading_size": "h1"
           }
         },
         "text_peWDU8": {
           "type": "text",
           "settings": {
-            "text": "Passion and service are the foundation of our ethos. ",
+            "text": "The Story of a Bike Emporium",
             "text_style": "caption-with-letter-spacing"
           }
         },
         "buttons_Y3pV8P": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "CALL TO INQUIRE",
+            "button_label_1": "GET INTOUCH",
             "button_link_1": "tel:033663773",
             "button_style_secondary_1": false,
-            "button_label_2": "FLICK US AN EMAIL",
+            "button_label_2": "",
             "button_link_2": "mailto:service@scottybrowns.com",
             "button_style_secondary_2": false
           }
