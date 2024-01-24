@@ -16,10 +16,56 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_t6tE7t": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Majrxy": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>THE BICYCLE EMPORIUM<\/strong>",
+            "text": "<p><a href=\"https:\/\/www.google.com\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.546643,172.6386798,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.546643!4d172.6386798\" target=\"_blank\" title=\"“Google\">16 Buchan St<br\/>Sydenham<br\/>Christchurch, 8023<br\/>New Zealand<br\/><br\/><\/a><strong>t.  <\/strong><a href=\"tel:+6433663773\" title=\"Give Us a Call\">+64 3 366 3773<br\/><\/a><strong>e. <\/strong><a href=\"mailto:scotty@scottybrowns.com\" title=\"Email HQ\">scotty@scottybrowns.com<br\/><br\/><\/a><strong>WORKSHOP<br\/>e. <\/strong><a href=\"mailto:service@scottybrowns.com\" title=\"Email HQ\">service@scottybrowns.com<br\/><br\/><\/a><strong>USUAL SHOP HOURS<br\/><br\/>MON - FRI<\/strong><br\/>8.30am - 6pm<br\/><br\/><strong>SAT<\/strong><br\/>10 - 2<br\/><br\/><\/p>",
+            "link_label": "",
+            "link": "",
+            "html_content": "<div class=\"elfsight-sapp-e7ce9eb0-a4d0-11e8-8eb0-67ae7c9ca09e\"><\/div>"
+          }
+        },
+        "column_qmNzPN": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "html_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Majrxy",
+        "column_qmNzPN"
+      ],
+      "settings": {
+        "title": "Get IN TOUCH",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "form"
+    "form",
+    "multicolumn_t6tE7t"
   ]
 }
