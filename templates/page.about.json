@@ -35,15 +35,14 @@
         "buttons_Y3pV8P"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Workshop_Bike_2_194ab828-8817-48fc-b583-d486e95c1986.jpg",
-        "image_2": "shopify:\/\/shop_images\/Simon_Workshop.jpg",
+        "image": "shopify:\/\/shop_images\/scotty-brown-live-do-what-if.jpg",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "fixed",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
