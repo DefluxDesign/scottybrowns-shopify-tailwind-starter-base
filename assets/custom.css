@@ -1,4 +1,8 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
+#shopify-section-sections--16481235370166__announcement-bar {
+  background-image: url();
+  background-size: cover;
+}
 .page-title-banner {
   position: sticky;
   top: 170px;
