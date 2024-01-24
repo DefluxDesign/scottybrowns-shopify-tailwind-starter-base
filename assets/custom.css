@@ -6,8 +6,9 @@
   background-position: right center;
 }
 .utility-bar {
-  background-image: url("https://cdn.shopify.com/s/files/1/0200/7688/files/sb-announcement-bar-bk-pink.svg");
+  background-image: url(/cdn/shop/files/sb-announcement-bar-bk-pink.svg);
   background-position: right bottom;
+  background-attachment: unset;
 }
 /* mega menu full width */
 .header.page-width {
