@@ -1,13 +1,8 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
-.utility-bar {
-  background-image: url("https://cdn.shopify.com/s/files/1/0200/7688/files/sb-announcement-bar-bk-pink.svg");
-  background-position: right bottom;
-}
-
-.page-title-banner {
+.utility-bar__grid.page-width {
   position: sticky;
-  top: 170px;
-  z-index: 1;
+  top: 180px;
+  z-index: 3;
   background: rgb(10, 60, 92);
   background: linear-gradient(
     90deg,
@@ -44,27 +39,4 @@
       rgba(220, 127, 38, 1) 100%
     );
   }
-}
-
-.product__column-sticky {
-  top: 265px !important;
-}
-
-.header.page-width {
-  width: 100%;
-  max-width: 100%;
-  padding: 0 !important;
-}
-
-.gm-menu-installed .gm-menu.gm-submenu-align-center {
-  width: 100%;
-}
-
-.gm-menu-installed .gm-menu .gm-grid {
-  max-width: 1440px;
-  margin: 0 auto;
-}
-
-.footer-block__details-content {
-  column-count: 2;
 }
