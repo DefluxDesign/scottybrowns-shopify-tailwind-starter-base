@@ -219,6 +219,15 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
+    },
+    "custom_liquid_C9jNtX": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -226,6 +235,7 @@
     "featured_collection",
     "featured_collection_TwJXVF",
     "collection_list_CDaGfK",
-    "multicolumn"
+    "multicolumn",
+    "custom_liquid_C9jNtX"
   ]
 }
