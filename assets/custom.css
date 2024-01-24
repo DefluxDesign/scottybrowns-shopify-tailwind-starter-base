@@ -2,8 +2,9 @@
 
 /* Announcement Bar bk */
 #shopify-section-sections--16481235370166__announcement-bar {
-  background-image: url(https://cdn.shopify.com/s/files/1/0200/7688/files/sb-announcement-bar-bk-pink.svg?v=1706132697);
+  background-image: url(/cdn/shop/files/sb-announcement-bar-bk-pink.svg?v=1706132697);
   background-size: cover;
+  background-position: right center;
 }
 .utility-bar {
   background: none;
