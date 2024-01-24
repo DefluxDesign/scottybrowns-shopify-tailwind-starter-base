@@ -1,4 +1,27 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
+
+/* ===== Scrollbar CSS ===== */
+/* Firefox */
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #fd309d #f5f5f5;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 16px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #f5f5f5;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #fd309d;
+  border-radius: 10px;
+  border: 3px solid #e0e0e0;
+}
+
 /* Announcement Bar bk */
 #shopify-section-sections--16481235370166__announcement-bar {
   background-image: url(/cdn/shop/files/sb-announcement-bar-bk-pink.svg?v=1706132697);
