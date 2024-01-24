@@ -45,6 +45,7 @@
   top: 265px !important;
 }
 
-.header:not(.drawer-menu) .page-width {
+.header.page-width {
+  width: 100vw;
   max-width: 100vw !important;
 }
