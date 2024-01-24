@@ -1,6 +1,7 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
 .page-title-banner {
-  position: relative;
+  position: sticky;
+  top: 200px;
   background: deepskyblue;
   width: 100%;
   padding: 2rem 4rem;
