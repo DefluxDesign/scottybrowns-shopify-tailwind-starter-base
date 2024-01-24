@@ -4,7 +4,7 @@
 /* Firefox */
 * {
   scrollbar-width: auto;
-  scrollbar-color: #10141d #304054;
+  scrollbar-color: #10141d #607997;
 }
 
 /* Chrome, Edge, and Safari */
@@ -13,7 +13,7 @@
 }
 
 *::-webkit-scrollbar-track {
-  background: #304054;
+  background: #607997;
 }
 
 *::-webkit-scrollbar-thumb {
