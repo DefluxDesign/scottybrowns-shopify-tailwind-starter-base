@@ -48,6 +48,12 @@
           "settings": {
           }
         },
+        "custom_liquid_cmt8Xe": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p><\/p>Buy Interest Free - 6 or 12 months with<\/p>\n    <!-- Latitude Snippet - Start -->\n<div id=\"latitude-product-widget\"><\/div>\n<!-- Latitude Snippet - End -->"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -103,12 +109,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "custom_liquid_cmt8Xe": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<p><\/p>Buy Interest Free - 6 or 12 months with<\/p>\n    <!-- Latitude Snippet - Start -->\n<div id=\"latitude-product-widget\"><\/div>\n<!-- Latitude Snippet - End -->"
-          }
         }
       },
       "block_order": [
@@ -119,14 +119,14 @@
         "variant_picker",
         "inventory_Acbe84",
         "quantity_selector",
+        "custom_liquid_cmt8Xe",
         "buy_buttons",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "custom_liquid_cmt8Xe"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
