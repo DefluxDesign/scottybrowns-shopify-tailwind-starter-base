@@ -36,7 +36,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/scotty-brown-live-do-what-if.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
