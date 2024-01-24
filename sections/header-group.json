@@ -43,20 +43,10 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
-    },
-    "custom_liquid_C3fJAi": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "custom_liquid_C3fJAi"
+    "header"
   ]
 }
