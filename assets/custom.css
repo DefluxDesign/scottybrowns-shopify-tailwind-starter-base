@@ -1,5 +1,6 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
 .page-title-banner {
+  background: var(--gradient-background);
   width: 100%;
   padding: 2rem 4rem;
   margin: 0 0 6rem 0;
