@@ -2,7 +2,7 @@
 .page-title-banner {
   position: sticky;
   top: 150px;
-  z-index: 30;
+  z-index: 2;
   background: rgb(10, 60, 92);
   background: linear-gradient(
     90deg,
