@@ -42,5 +42,5 @@
 }
 
 .product__column-sticky {
-  top: 265px;
+  top: 265px !important;
 }
