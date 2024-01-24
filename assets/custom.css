@@ -53,8 +53,6 @@ body.gm-menu-installed .header-item.header-item--navigation.gm-theme-902 > ul {
   width: 100% !important;
 }
 
-@media screen and (min-width: 990px) {
-  .header:not(.drawer-menu) .page-width {
-    max-width: 100vw !important;
-  }
+.header:not(.drawer-menu) .page-width {
+  max-width: 100vw !important;
 }
