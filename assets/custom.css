@@ -1,8 +1,8 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
-.utility-bar{
-  background-image:url('');
-  background-size:cover;
-  background-position-x:right;
+.utility-bar {
+  background-image: url("https://cdn.shopify.com/s/files/1/0200/7688/files/sb-announcement-bar-bk.svg?v=1706131979");
+  background-size: cover;
+  background-position-x: right;
 }
 
 .page-title-banner {
@@ -66,7 +66,6 @@
   margin: 0 auto;
 }
 
-.footer-block__details-content{
+.footer-block__details-content {
   column-count: 2;
-}
 }
