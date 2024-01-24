@@ -73,9 +73,8 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Dimensions",
+            "heading": "RETURNS",
             "icon": "ruler",
             "content": "",
             "page": ""
