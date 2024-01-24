@@ -1,4 +1,10 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
+.utility-bar{
+  background-image:url('');
+  background-size:cover;
+  background-position-x:right;
+}
+
 .page-title-banner {
   position: sticky;
   top: 170px;
