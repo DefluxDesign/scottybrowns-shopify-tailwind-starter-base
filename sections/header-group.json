@@ -17,7 +17,7 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-28987e6a-6d4a-4d24-ac0f-fd001d9a34e7",
         "show_line_separator": false,
         "show_social": false,
         "auto_rotate": true,
@@ -34,7 +34,7 @@
         "menu_type_desktop": "mega",
         "sticky_header_type": "reduce-logo-size",
         "show_line_separator": true,
-        "color_scheme": "scheme-5",
+        "color_scheme": "scheme-3",
         "menu_color_scheme": "",
         "enable_country_selector": false,
         "enable_language_selector": false,
