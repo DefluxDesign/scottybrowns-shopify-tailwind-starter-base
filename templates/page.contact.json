@@ -2,17 +2,8 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "color_scheme": "scheme-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -33,11 +24,11 @@
         "column_qmNzPN": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "<strong>SYDERS, ŌTAUTAHI<\/strong>",
             "text": "",
             "link_label": "",
             "link": "",
-            "html_content": ""
+            "html_content": "<iframe src=\"https:\/\/snazzymaps.com\/embed\/91541\" width=\"100%\" height=\"610px\" style=\"border:none; border-radius:6px;\"><\/iframe>"
           }
         }
       },
@@ -52,12 +43,22 @@
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "color_scheme": "scheme-3",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -65,7 +66,7 @@
   },
   "order": [
     "main",
-    "form",
-    "multicolumn_t6tE7t"
+    "multicolumn_t6tE7t",
+    "form"
   ]
 }
