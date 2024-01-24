@@ -4,11 +4,10 @@
   background-image: url(/cdn/shop/files/sb-announcement-bar-bk-pink.svg?v=1706132697);
   background-size: cover;
   background-position: right center;
+  background-attachment: unset;
 }
 .utility-bar {
-  background-image: url(/cdn/shop/files/sb-announcement-bar-bk-pink.svg);
-  background-position: right bottom;
-  background-attachment: unset;
+  background: none;
 }
 /* mega menu full width */
 .header.page-width {
