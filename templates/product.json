@@ -107,7 +107,7 @@
         "custom_liquid_cmt8Xe": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div id=\"latitude-product-widget\"><\/div>"
+            "custom_liquid": "<p><\/p>Buy Interest Free - 6 or 12 months with<\/p>\n    <!-- Latitude Snippet - Start -->\n<div id=\"latitude-product-widget\"><\/div>\n<!-- Latitude Snippet - End -->"
           }
         }
       },
