@@ -11,13 +11,13 @@
 }
 /* mega menu full width */
 .header.page-width {
-  width: 100%;
+  width: calc(100% + 40px);
   max-width: 100%;
-  padding: 0 !important;
+  padding: 0 20px !important;
 }
 
 .gm-menu-installed .gm-menu.gm-submenu-align-center {
-  width: 100%;
+  width: calc(100% + 40px);
 }
 
 .gm-menu-installed .gm-menu .gm-grid {
