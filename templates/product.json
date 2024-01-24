@@ -35,6 +35,14 @@
             "swatch_shape": "circle"
           }
         },
+        "inventory_Acbe84": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 2,
+            "show_inventory_quantity": true
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -103,6 +111,7 @@
         "caption",
         "price",
         "variant_picker",
+        "inventory_Acbe84",
         "quantity_selector",
         "buy_buttons",
         "description",
