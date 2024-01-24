@@ -63,3 +63,7 @@ body.gm-menu-installed
   .gm-jc-center {
   text-align: center !important;
 }
+
+@media screen and (min-width: 990px) .header:not(.drawer-menu) .page-width {
+  max-width: 100vw;
+}
