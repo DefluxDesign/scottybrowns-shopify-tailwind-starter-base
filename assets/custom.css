@@ -1,4 +1,5 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
-.page-title-banner{
-    @apply w-full;
+.page-title-banner {
+  width: 100%;
+  padding: 2rem 4rem;
 }
