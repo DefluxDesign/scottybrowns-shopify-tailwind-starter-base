@@ -40,3 +40,7 @@
     );
   }
 }
+
+.product__column-sticky {
+  top: 265px;
+}
