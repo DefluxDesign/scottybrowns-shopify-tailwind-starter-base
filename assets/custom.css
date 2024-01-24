@@ -49,19 +49,8 @@
   padding: 18px 20px !important;
 }
 
-body.gm-menu-installed
-  .header-item.header-item--navigation.gm-theme-Expanse
-  > ul,
 body.gm-menu-installed .header-item.header-item--navigation.gm-theme-902 > ul {
   width: 100% !important;
-}
-
-body.gm-menu-installed
-  .gm-menu.gm-menu-mobile
-  .gm-item
-  .gm-image
-  .gm-jc-center {
-  text-align: center !important;
 }
 
 @media screen and (min-width: 990px) .header:not(.drawer-menu) .page-width {
