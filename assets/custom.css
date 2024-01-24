@@ -54,3 +54,8 @@
 .gm-menu-installed .gm-menu.gm-submenu-align-center {
   width: 100%;
 }
+
+.gm-menu-installed .gm-menu .gm-grid {
+  max-width: 1440px;
+  margin: 0 auto;
+}
