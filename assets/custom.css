@@ -1,8 +1,8 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
 .page-title-banner {
   position: sticky;
-  top: 150px;
-  z-index: 2.1;
+  top: 140px;
+  z-index: 3;
   background: rgb(10, 60, 92);
   background: linear-gradient(
     90deg,
