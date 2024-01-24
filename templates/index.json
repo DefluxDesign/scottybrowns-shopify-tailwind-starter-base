@@ -184,7 +184,7 @@
           "type": "column",
           "settings": {
             "title": "#SBNOW",
-            "text": "<p>&lt;div class=\"elfsight-sapp-a4794930-a750-11e8-a569-a5a7389306f4\"&gt;&lt;\/div&gt;<\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
