@@ -33,6 +33,15 @@
 .utility-bar {
   background: none;
 }
+
+sticky-header.header-wrapper::after {
+  content: "";
+  width: 100%;
+  height: 25px;
+  background: #10151e;
+  position: absolute;
+}
+
 /* mega menu full width */
 .header.page-width {
   width: calc(100% + 40px);
