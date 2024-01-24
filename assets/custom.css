@@ -1,8 +1,7 @@
 /* -- Deflux Design -- jono@deflux.co.nz */
 .utility-bar {
   background-image: url("https://cdn.shopify.com/s/files/1/0200/7688/files/sb-announcement-bar-bk-pink.svg");
-  background-position-x: right;
-  background-position-y: bottom;
+  background-position: right bottom;
 }
 
 .page-title-banner {
