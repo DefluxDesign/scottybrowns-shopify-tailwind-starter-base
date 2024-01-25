@@ -156,15 +156,19 @@ li#Slide-template--16481235697846__multicolumn-1 {
 }
 
 .card--card.card--media > .card__content:nth-child(1n) {
+  background-color: #1da3ddb8;
 }
 
 .card--card.card--media > .card__content:nth-child(2n) {
+  background-color: #e4429878;
 }
 
 .card--card.card--media > .card__content:nth-child(3n) {
+  background-color: #ccdb2d69;
 }
 
 .card--card.card--media > .card__content:nth-child(4n) {
+  background-color: #e4429878;
 }
 
 /* Product */
