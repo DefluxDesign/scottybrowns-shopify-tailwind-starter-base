@@ -42,18 +42,6 @@ sticky-header.header-wrapper {
   background-attachment: unset;
 }
 
-sticky-header.header-wrapper::after {
-  content: "";
-  width: 100%;
-  height: 23px;
-  background: #10151e;
-  position: absolute;
-  background-image: url(https://cdn.shopify.com/s/files/1/0200/7688/files/sb-hdr-subbar.svg?v=1706137277),
-    url(https://cdn.shopify.com/s/files/1/0200/7688/files/sb-hdr-subbar-right.svg?v=1706137570);
-  background-position: left center, right center;
-  background-repeat: no-repeat;
-}
-
 /* mega menu full width */
 .header.page-width {
   width: calc(100% + 40px);
