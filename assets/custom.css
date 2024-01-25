@@ -18,7 +18,8 @@
 
 *::-webkit-scrollbar-thumb {
   background-color: #10141d;
-  border-radius: 4px;
+  border-radius: 10px;
+  border: 3px solid #304054;
   width: 8px;
 }
 
