@@ -86,6 +86,10 @@ header .header__search {
   );
 }
 
+slideshow-component:not(.page-width) .slider-buttons {
+  margin-left: auto;
+}
+
 /* Product */
 .page-title-banner {
   position: sticky;
