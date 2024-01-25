@@ -229,8 +229,9 @@
         "column_6CnCgX": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/proudly-loca_bd559680-9e8f-40dc-99e7-da09b518a6a3.svg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": "",
             "html_content": ""
