@@ -182,6 +182,10 @@ ul {
   color: #22303e;
 }
 
+.multicolumn-card__image-wrapper.multicolumn-card__image-wrapper--half-width.multicolumn-card-spacing {
+  margin: 0 auto;
+}
+
 /* Product */
 .page-title-banner {
   position: sticky;
