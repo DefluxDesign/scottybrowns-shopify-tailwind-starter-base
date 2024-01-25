@@ -92,7 +92,7 @@ section#shopify-section-template--16481235697846__slideshow_mfJYJV {
 }
 
 .slider-counter__link {
-  transition: all 2s ease-in;
+  transition: all 2s ease-in !important;
 }
 
 .slideshow__text.banner__box.content-container {
