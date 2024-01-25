@@ -162,7 +162,7 @@ ul {
   }
 
   li:nth-child(2n) .card--card.card--media > .card__content {
-    background-color: dc7f2778;
+    background-color: #dc7f2778;
     border-top: 4px solid #dc7f27;
   }
 
