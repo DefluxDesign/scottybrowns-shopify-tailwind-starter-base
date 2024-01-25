@@ -34,6 +34,13 @@
   background: none;
 }
 
+.sticky-header {
+  background-image: url(https://cdn.shopify.com/s/files/1/0200/7688/files/sb-header-bk-watermark.svg?v=1706144151);
+  background-size: cover;
+  background-position: right center;
+  background-attachment: unset;
+}
+
 sticky-header.header-wrapper::after {
   content: "";
   width: 100%;
