@@ -2,6 +2,40 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "newsletter_Y84w9h": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_q3jhEC": {
+          "type": "heading",
+          "settings": {
+            "heading": "JUST THE GOOD SH*T....... PROMISE - SIGN UP - GO ON!",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_HQRyAM": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email_form_HWghfm": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_q3jhEC",
+        "paragraph_HQRyAM",
+        "email_form_HWghfm"
+      ],
+      "settings": {
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 64
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -41,6 +75,7 @@
     }
   },
   "order": [
+    "newsletter_Y84w9h",
     "footer"
   ]
 }

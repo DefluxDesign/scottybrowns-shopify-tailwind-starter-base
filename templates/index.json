@@ -156,13 +156,20 @@
           "settings": {
             "collection": ""
           }
+        },
+        "featured_collection_WKaQit": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "featured_collection_JTBVqm",
         "featured_collection_4V9DjP",
         "featured_collection_WRQPcc",
-        "featured_collection_nx6nBr"
+        "featured_collection_nx6nBr",
+        "featured_collection_WKaQit"
       ],
       "disabled": true,
       "settings": {
