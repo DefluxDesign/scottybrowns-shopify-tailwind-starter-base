@@ -74,6 +74,14 @@ subheader {
   border: 1px solid #1da3ddb8;
 }
 
+.header__icon::nth-child(2) {
+  border: 1px solid #1da3ddb8;
+}
+
+.header__icon::nth-child(3) {
+  border: 1px solid #1da3ddb8;
+}
+
 /* mega menu full width */
 header .header__search {
   display: none !important;
