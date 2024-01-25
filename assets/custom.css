@@ -126,6 +126,10 @@ slideshow-component:not(.page-width) .slider-buttons {
 .slider-button--prev {
   display: none !important;
 }
+/* #sbnow instagram */
+.eapps-instagram-feed-posts-slider-inner.eapps-instagram-feed-posts-inner.eui-slider-inner.es-layout-carousel-content {
+  width: 100% !important;
+}
 
 /* Product */
 .page-title-banner {
