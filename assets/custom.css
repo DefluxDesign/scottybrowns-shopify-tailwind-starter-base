@@ -42,6 +42,11 @@ sticky-header.header-wrapper {
   background-attachment: unset;
 }
 
+subheader {
+  width: 100%;
+  height: fit-content;
+}
+
 /* mega menu full width */
 .header.page-width {
   width: calc(100% + 40px);
