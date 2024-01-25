@@ -70,15 +70,15 @@ subheader {
   height: 3.8rem;
 }
 
-.header__icon::nth-child(1) {
+.header__icon:nth-child(1) {
   border: 1px solid #1da3ddb8;
 }
 
-.header__icon::nth-child(2) {
+.header__icon:nth-child(2) {
   border: 1px solid #e4429878;
 }
 
-.header__icon::nth-child(3) {
+.header__icon:nth-child(3) {
   border: 1px solid #ccdb2d69;
 }
 
