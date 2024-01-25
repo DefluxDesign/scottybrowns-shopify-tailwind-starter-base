@@ -47,7 +47,7 @@ subheader {
   height: fit-content;
   grid-template-columns: 1fr 40px 40px 40px;
   display: grid;
-  border-top: 2px solid #304054;
+  border-top: 2px solid #10141d;
 }
 
 /* mega menu full width */
