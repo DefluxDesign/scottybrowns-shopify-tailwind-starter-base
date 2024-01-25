@@ -229,6 +229,12 @@ ul {
   }
 }
 
+section#shopify-section-template--16481235697846__featured_collection {
+  &:after {
+    display: none;
+  }
+}
+
 .collection__title.title-wrapper {
   &:after {
     content: "";
