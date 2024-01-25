@@ -156,19 +156,19 @@ li#Slide-template--16481235697846__multicolumn-1 {
 }
 
 ul {
-  li:nth-child(1) .card--card.card--media > .card__content {
+  li:nth-child(1n) .card--card.card--media > .card__content {
     background-color: #1da3ddb8;
   }
 
-  li:nth-child(2) .card--card.card--media > .card__content {
+  li:nth-child(2n) .card--card.card--media > .card__content {
     background-color: #e4429878;
   }
 
-  li:nth-child(3) .card--card.card--media > .card__content {
+  li:nth-child(3n) .card--card.card--media > .card__content {
     background-color: #ccdb2d69;
   }
 
-  li:nth-child(4) .card--card.card--media > .card__content {
+  li:nth-child(4n) .card--card.card--media > .card__content {
     background-color: #dc7f2782;
   }
 }
