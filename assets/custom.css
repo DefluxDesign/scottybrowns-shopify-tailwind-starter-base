@@ -63,6 +63,13 @@ subheader {
   border-top: 2px solid #10141d;
 }
 
+.header__icon {
+  border: 1px solid #fff;
+  border-radius: 30px;
+  width: 3.8rem;
+  height: 3.8rem;
+}
+
 /* mega menu full width */
 header .header__search {
   display: none !important;
