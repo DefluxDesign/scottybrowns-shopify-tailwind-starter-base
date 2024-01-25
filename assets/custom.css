@@ -177,6 +177,11 @@ ul {
   }
 }
 
+.card__heading {
+  font-size: 2rem;
+  color: #22303e;
+}
+
 /* Product */
 .page-title-banner {
   position: sticky;
