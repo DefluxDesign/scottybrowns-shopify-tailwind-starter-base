@@ -158,18 +158,22 @@ li#Slide-template--16481235697846__multicolumn-1 {
 ul {
   li:nth-child(1n) .card--card.card--media > .card__content {
     background-color: #1da3ddb8;
+    border-top: 4px solid #1da3dd;
   }
 
   li:nth-child(2n) .card--card.card--media > .card__content {
-    background-color: #e4429878;
+    background-color: dc7f2778;
+    border-top: 4px solid #dc7f27;
   }
 
   li:nth-child(3n) .card--card.card--media > .card__content {
-    background-color: #ccdb2d69;
+    background-color: #dc7f2769;
+    border-top: 4px solid #dc7f27;
   }
 
   li:nth-child(4n) .card--card.card--media > .card__content {
     background-color: #dc7f2782;
+    border-top: 4px solid #dc7f27;
   }
 }
 
