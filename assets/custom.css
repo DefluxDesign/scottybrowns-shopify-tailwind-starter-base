@@ -127,6 +127,11 @@ slideshow-component:not(.page-width) .slider-buttons {
   display: none !important;
 }
 /* #sbnow instagram */
+li#Slide-template--16481235697846__multicolumn-1 {
+  max-width: 200rem;
+  width: 100%;
+}
+
 .eapps-instagram-feed-posts-slider-inner.eapps-instagram-feed-posts-inner.eui-slider-inner.es-layout-carousel-content {
   width: 100% !important;
 }
