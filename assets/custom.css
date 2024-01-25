@@ -45,6 +45,7 @@ sticky-header.header-wrapper {
 subheader {
   width: 100%;
   height: fit-content;
+  grid-template-columns: 7fr 1fr;
 }
 
 /* mega menu full width */
