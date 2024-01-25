@@ -268,3 +268,7 @@ ul {
 .product__column-sticky {
   top: 265px !important;
 }
+
+.eapps-instagram-feed-posts-item-template-tile {
+  border-radius: 8px;
+}
