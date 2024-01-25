@@ -271,6 +271,12 @@ ul {
 
 /* Footer */
 
+footer {
+  background-image: url("https://cdn.shopify.com/s/files/1/0200/7688/files/sb-road-map.png?v=1706209888") !important;
+  background: no-repeat;
+  background-position: left -10px;
+}
+
 subfooter {
   position: relative;
   top: -93px;
