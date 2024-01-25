@@ -231,7 +231,7 @@ ul {
 
 section#shopify-section-template--16481235697846__featured_collection {
   &:after {
-    display: none;
+    display: none !important;
   }
 }
 
