@@ -158,6 +158,7 @@ li#Slide-template--16481235697846__multicolumn-1 {
 ul {
   li:nth-child(1n) .card--card.card--media > .card__content {
     background-color: #1da3ddb8;
+    border-top: 4px solid #1da3dd;
   }
 
   li:nth-child(2n) .card--card.card--media > .card__content {
