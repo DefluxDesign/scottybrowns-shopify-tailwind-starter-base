@@ -52,6 +52,7 @@ sticky-header.header-wrapper {
   background-size: cover;
   background-position: right -15px;
   background-attachment: unset;
+  padding: 4px;
 }
 
 subheader {
@@ -74,7 +75,7 @@ header .header__search {
 }
 
 .gm-menu-installed .gm-menu.gm-submenu-align-center {
-  width: calc(100% + 40px);
+  width: calc(100% + 48px);
 }
 
 .gm-menu-installed .gm-menu .gm-grid {
