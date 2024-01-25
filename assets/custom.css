@@ -269,6 +269,12 @@ ul {
   top: 265px !important;
 }
 
+subfooter {
+  margin-top: -112px;
+  position: relative;
+  top: -93px;
+}
+
 /* Instagram */
 .eapps-instagram-feed-posts-item-template-tile {
   border-radius: 8px;
