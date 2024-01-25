@@ -33,6 +33,11 @@
 }
 .utility-bar {
   background: none;
+  width: 100%;
+}
+
+.announcement-bar__message {
+  margin-right: auto;
 }
 
 sticky-header.header-wrapper {
