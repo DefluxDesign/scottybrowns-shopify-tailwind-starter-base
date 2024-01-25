@@ -90,6 +90,11 @@ slideshow-component:not(.page-width) .slider-buttons {
   margin-left: auto;
 }
 
+.slider-button--next,
+.slider-button--prev {
+  display: none;
+}
+
 /* Product */
 .page-title-banner {
   position: sticky;
