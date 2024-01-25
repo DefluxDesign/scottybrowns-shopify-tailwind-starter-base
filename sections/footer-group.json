@@ -101,10 +101,18 @@
             "heading": "THE LINE UP",
             "menu": "footer"
           }
+        },
+        "text_VgrzBj": {
+          "type": "text",
+          "settings": {
+            "heading": "KEEP IT SOCIAL",
+            "subtext": "<p>Insta<br\/><a href=\"https:\/\/www.instagram.com\/scottybrowns\/\" title=\"https:\/\/www.instagram.com\/scottybrowns\/\">@scottybrowns<\/a><br\/><br\/>Facebook<br\/><a href=\"https:\/\/www.facebook.com\/scottybrownsnz\/\" target=\"_blank\" title=\"https:\/\/www.facebook.com\/scottybrownsnz\/\">@scottybrownsnz<br\/><\/a><\/p>"
+          }
         }
       },
       "block_order": [
-        "footer-0"
+        "footer-0",
+        "text_VgrzBj"
       ],
       "settings": {
         "color_scheme": "scheme-3",
