@@ -36,6 +36,51 @@
         "padding_bottom": 64
       }
     },
+    "multicolumn_aLjFrD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7pNUNd": {
+          "type": "column",
+          "settings": {
+            "title": "LocatioN",
+            "text": "<p><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>16 Buchan St<br\/>Sydenham 8023<br\/>Christchurch, Ōtautahi<br\/><br\/>Aotearoa, New Zealand<br\/><br\/><\/strong><\/a><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/\">Find Location<\/a><\/p>",
+            "link_label": "",
+            "link": "",
+            "html_content": ""
+          }
+        },
+        "column_WAUkNt": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "html_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7pNUNd",
+        "column_WAUkNt"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -76,6 +121,7 @@
   },
   "order": [
     "newsletter_Y84w9h",
+    "multicolumn_aLjFrD",
     "footer"
   ]
 }
