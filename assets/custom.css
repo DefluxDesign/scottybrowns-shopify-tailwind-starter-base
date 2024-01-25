@@ -78,7 +78,7 @@ subheader {
   border: 1px solid #e4429878;
 }
 
-.header__icon:nth-child(3) {
+.header__icon:nth-child(3n) {
   border: 1px solid #ccdb2d69;
 }
 
