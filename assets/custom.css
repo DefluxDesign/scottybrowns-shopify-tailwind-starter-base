@@ -81,13 +81,13 @@ section#shopify-section-template--16481235697846__slideshow_mfJYJV {
 }
 
 .slider-counter__link--active.slider-counter__link--dots .dot {
-  background-color: #e44298;
+  background-color: #e44298 !important;
   width: 15px;
   border-radius: 20px;
 }
 
 .slider-counter__link--dots .dot {
-  border-color: #e44298;
+  border-color: #e44298 !important;
 }
 
 .slideshow__text.banner__box.content-container {
