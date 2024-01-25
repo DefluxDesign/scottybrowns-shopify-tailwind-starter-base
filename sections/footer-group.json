@@ -32,45 +32,8 @@
       "settings": {
         "color_scheme": "scheme-5",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 64
-      }
-    },
-    "footer": {
-      "type": "footer",
-      "blocks": {
-        "text_6DiTJi": {
-          "type": "text",
-          "settings": {
-            "heading": "SHOP LOCATION - CHCH",
-            "subtext": "<p>BIKE WORKSHOP & EMPORIUM<\/p><p><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>16 Buchan St<\/strong><\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>Sydenham<\/strong><\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>Christchurch, 8023<\/strong><\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>New Zealand<br\/><\/strong><\/a><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/\">Find Location<\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><br\/><\/a><strong>T <\/strong><a href=\"tel:03 366 3773\" title=\"tel:03 366 3773\"><strong>03 366 3773<\/strong><\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><br\/><\/a><strong>USUAL HOURS<\/strong><br\/>OPEN A SMIDGEN EARLIER<br\/>MON- FRI 8.30 - 6<br\/><br\/>SAT 10 - 2<\/p>"
-          }
-        },
-        "footer-0": {
-          "type": "link_list",
-          "settings": {
-            "heading": "THE LINE UP",
-            "menu": "footer"
-          }
-        }
-      },
-      "block_order": [
-        "text_6DiTJi",
-        "footer-0"
-      ],
-      "settings": {
-        "color_scheme": "scheme-3",
-        "newsletter_enable": false,
-        "newsletter_heading": "JUST THE GOOD SH*T....... PROMISE - SIGN UP -",
-        "enable_follow_on_shop": false,
-        "show_social": true,
-        "enable_country_selector": false,
-        "enable_language_selector": false,
-        "payment_enable": false,
-        "show_policy": true,
-        "margin_top": 0,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "multicolumn_aLjFrD": {
@@ -128,11 +91,48 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_6DiTJi": {
+          "type": "text",
+          "settings": {
+            "heading": "SHOP LOCATION - CHCH",
+            "subtext": "<p>BIKE WORKSHOP & EMPORIUM<\/p><p><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>16 Buchan St<\/strong><\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>Sydenham<\/strong><\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>Christchurch, 8023<\/strong><\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>New Zealand<br\/><\/strong><\/a><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/\">Find Location<\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><br\/><\/a><strong>T <\/strong><a href=\"tel:03 366 3773\" title=\"tel:03 366 3773\"><strong>03 366 3773<\/strong><\/a><br\/><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><br\/><\/a><strong>USUAL HOURS<\/strong><br\/>OPEN A SMIDGEN EARLIER<br\/>MON- FRI 8.30 - 6<br\/><br\/>SAT 10 - 2<\/p>"
+          }
+        },
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "THE LINE UP",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "text_6DiTJi",
+        "footer-0"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "newsletter_enable": false,
+        "newsletter_heading": "JUST THE GOOD SH*T....... PROMISE - SIGN UP -",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "newsletter_Y84w9h",
-    "footer",
-    "multicolumn_aLjFrD"
+    "multicolumn_aLjFrD",
+    "footer"
   ]
 }
