@@ -164,6 +164,9 @@ li#Slide-template--16481235697846__multicolumn-1 {
 .card--card.card--media > .card__content:nth-child(3n) {
 }
 
+.card--card.card--media > .card__content:nth-child(4n) {
+}
+
 /* Product */
 .page-title-banner {
   position: sticky;
