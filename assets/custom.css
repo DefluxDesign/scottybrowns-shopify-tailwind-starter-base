@@ -160,15 +160,15 @@ ul {
     background-color: #1da3ddb8;
   }
 
-  .card--card.card--media > .card__content:nth-child(2) {
+  li .card--card.card--media > .card__content:nth-child(2) {
     background-color: #e4429878;
   }
 
-  .card--card.card--media > .card__content:nth-child(3) {
+  li .card--card.card--media > .card__content:nth-child(3) {
     background-color: #ccdb2d69;
   }
 
-  .card--card.card--media > .card__content:nth-child(4) {
+  li .card--card.card--media > .card__content:nth-child(4) {
     background-color: #e4429878;
   }
 }
