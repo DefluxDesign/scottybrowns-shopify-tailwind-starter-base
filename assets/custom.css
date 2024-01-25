@@ -163,14 +163,17 @@ ul {
 
   li:nth-child(2n) .card--card.card--media > .card__content {
     background-color: #e4429878;
+    border-top: 4px solid #e44298;
   }
 
   li:nth-child(3n) .card--card.card--media > .card__content {
     background-color: #ccdb2d69;
+    border-top: 4px solid #1da3dd;
   }
 
   li:nth-child(4n) .card--card.card--media > .card__content {
     background-color: #dc7f2782;
+    border-top: 4px solid #1da3dd;
   }
 }
 
