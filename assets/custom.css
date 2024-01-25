@@ -91,6 +91,10 @@ section#shopify-section-template--16481235697846__slideshow_mfJYJV {
   transition: width 1s ease-in-out;
 }
 
+.slider-counter__link {
+  transition: all 2s ease-in;
+}
+
 .slideshow__text.banner__box.content-container {
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
