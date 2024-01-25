@@ -60,7 +60,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-3",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "JUST THE GOOD SH*T....... PROMISE - SIGN UP -",
         "enable_follow_on_shop": false,
         "show_social": true,
