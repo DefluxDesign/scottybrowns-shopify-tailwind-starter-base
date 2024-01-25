@@ -88,6 +88,7 @@ section#shopify-section-template--16481235697846__slideshow_mfJYJV {
 
 .slider-counter__link--dots .dot {
   border-color: #e44298 !important;
+  transition: width 1s ease-in-out;
 }
 
 .slideshow__text.banner__box.content-container {
