@@ -31,7 +31,7 @@
             "button_label": "COME VISIT",
             "link": "https:\/\/scottybrowns.com\/pages\/get-intouch",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
+            "box_align": "top-left",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
