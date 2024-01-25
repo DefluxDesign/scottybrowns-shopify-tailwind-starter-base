@@ -14,6 +14,7 @@
 
 *::-webkit-scrollbar-track {
   background: #607997;
+  transition: width 1s ease-in-out;
 }
 
 *::-webkit-scrollbar-thumb {
