@@ -316,7 +316,7 @@
             {% render block %}
         {%- endcase -%}
       {%- endfor -%}
-
+<!--- now in subheader
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
         {%- liquid
           if cart == empty
@@ -335,6 +335,7 @@
           </div>
         {%- endif -%}
       </a>
+--!>
     </div>
 
   </header>
