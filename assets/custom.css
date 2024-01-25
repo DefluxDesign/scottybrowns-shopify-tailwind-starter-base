@@ -46,6 +46,7 @@ subheader {
   width: 100%;
   height: fit-content;
   grid-template-columns: 7fr 1fr;
+  display: grid;
 }
 
 /* mega menu full width */
