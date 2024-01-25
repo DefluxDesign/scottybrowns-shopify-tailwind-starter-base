@@ -26,11 +26,6 @@
 /* Announcement Bar bk */
 #shopify-section-sections--16481235370166__announcement-bar {
   background-image: url(/cdn/shop/files/sb-announcement-bar-bk-pink.svg?v=1706132697);
-  background-color: linear-gradient(
-    46deg,
-    rgba(14, 21, 29, 1) 32%,
-    rgba(64, 85, 110, 1) 85%
-  );
   background-size: cover;
   background-position: right center;
   background-attachment: unset;
@@ -40,6 +35,11 @@
 }
 
 sticky-header.header-wrapper {
+  background-color: linear-gradient(
+    46deg,
+    rgba(14, 21, 29, 1) 32%,
+    rgba(64, 85, 110, 1) 85%
+  );
   background-position: right center;
   background-attachment: unset;
 }
