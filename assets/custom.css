@@ -168,12 +168,12 @@ ul {
 
   li:nth-child(3n) .card--card.card--media > .card__content {
     background-color: #ccdb2d69;
-    border-top: 4px solid #1da3dd;
+    border-top: 4px solid #ccdb2d;
   }
 
   li:nth-child(4n) .card--card.card--media > .card__content {
     background-color: #dc7f2782;
-    border-top: 4px solid #1da3dd;
+    border-top: 4px solid #dc7f27;
   }
 }
 
