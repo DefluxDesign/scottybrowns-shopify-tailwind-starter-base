@@ -31,7 +31,7 @@
   background-position: right center;
   background-attachment: unset;
 }
-.utility-bar {
+.page-width.utility-bar__grid {
   background: none;
   max-width: 100%;
 }
