@@ -156,7 +156,7 @@ li#Slide-template--16481235697846__multicolumn-1 {
 }
 
 ul {
-  .card--card.card--media > .card__content:nth-child(1) {
+  li .card--card.card--media > .card__content:nth-child(1) {
     background-color: #1da3ddb8;
   }
 
