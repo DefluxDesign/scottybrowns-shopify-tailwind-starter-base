@@ -45,7 +45,7 @@ sticky-header.header-wrapper {
 subheader {
   width: 100%;
   height: fit-content;
-  grid-template-columns: 7fr 1fr;
+  grid-template-columns: 1fr 90px;
   display: grid;
 }
 
