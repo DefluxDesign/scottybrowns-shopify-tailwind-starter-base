@@ -95,18 +95,29 @@
             "link": "",
             "html_content": ""
           }
+        },
+        "column_nWFtFq": {
+          "type": "column",
+          "settings": {
+            "title": "Get IN TOUCH",
+            "text": "<p>We've got your back<br\/>Service - Knowledge - Good Times.<br\/><br\/><a href=\"tel:+64 3 366 3773\" title=\"tel:+64 3 366 3773\">+64 3 366 3773<\/a><br\/><a href=\"mailto:scotty@scottybrowns.com\" title=\"mailto:scotty@scottybrowns.com\">scotty@scottybrowns.com<\/a><\/p>",
+            "link_label": "CALL US",
+            "link": "tel:+64 3 366 3773",
+            "html_content": ""
+          }
         }
       },
       "block_order": [
         "column_7pNUNd",
-        "column_WAUkNt"
+        "column_WAUkNt",
+        "column_nWFtFq"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
