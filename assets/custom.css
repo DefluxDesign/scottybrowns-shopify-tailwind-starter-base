@@ -230,7 +230,7 @@ ul {
 }
 
 section#shopify-section-template--16481235697846__featured_collection {
-  &:after {
+  .collection__title.title-wrapper:after:after {
     display: none !important;
   }
 }
