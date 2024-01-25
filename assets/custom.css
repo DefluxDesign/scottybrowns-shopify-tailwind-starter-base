@@ -38,7 +38,7 @@ sticky-header.header-wrapper {
   background-image: url(https://cdn.shopify.com/s/files/1/0200/7688/files/sb-header-b-3.svg?v=1706147724),
     linear-gradient(46deg, #0e151d 32%, #192533 85%);
   background-size: cover;
-  background-position: right center;
+  background-position: right -15px;
   background-attachment: unset;
 }
 
