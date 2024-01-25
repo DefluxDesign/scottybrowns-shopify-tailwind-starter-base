@@ -43,9 +43,9 @@
           "type": "column",
           "settings": {
             "title": "LocatioN",
-            "text": "<p><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>16 Buchan St<br\/>Sydenham 8023<br\/>Christchurch, Ōtautahi<br\/><br\/>Aotearoa, New Zealand<br\/><br\/><\/strong><\/a><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/\">Find Location<\/a><\/p>",
-            "link_label": "",
-            "link": "",
+            "text": "<p><a href=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\" target=\"_blank\" title=\"https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/@-43.544875,172.645948,15z\/data=!4m5!3m4!1s0x0:0x22bdce6e8a8c63da!8m2!3d-43.544875!4d172.645948\"><strong>16 Buchan St<br\/>Sydenham 8023<br\/>Christchurch, Ōtautahi<br\/><br\/>Aotearoa, New Zealand<\/strong><\/a><\/p>",
+            "link_label": "FIND LOCATION",
+            "link": "https:\/\/www.google.co.nz\/maps\/place\/Scotty+Browns+Bike+Emporium\/",
             "html_content": ""
           }
         },
