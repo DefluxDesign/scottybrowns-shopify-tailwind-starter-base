@@ -33,7 +33,7 @@
 }
 .utility-bar {
   background: none;
-  width: 100%;
+  max-width: 100%;
 }
 
 .announcement-bar__message {
