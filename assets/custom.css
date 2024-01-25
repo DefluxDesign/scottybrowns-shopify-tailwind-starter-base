@@ -51,6 +51,10 @@ subheader {
 }
 
 /* mega menu full width */
+header .header__search {
+  display: none;
+}
+
 .header.page-width {
   width: calc(100% + 40px);
   max-width: 100%;
