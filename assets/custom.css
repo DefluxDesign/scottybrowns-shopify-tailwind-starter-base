@@ -52,7 +52,7 @@ subheader {
 
 /* mega menu full width */
 header .header__search {
-  display: none;
+  display: none !important;
 }
 
 .header.page-width {
