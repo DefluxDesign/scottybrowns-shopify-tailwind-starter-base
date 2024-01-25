@@ -18,9 +18,8 @@
 
 *::-webkit-scrollbar-thumb {
   background-color: #10141d;
-  border-radius: 5px;
-  border: 1px solid #304054;
-  width: 10px;
+  border-radius: 4px;
+  width: 8px;
 }
 
 /* Announcement Bar bk */
