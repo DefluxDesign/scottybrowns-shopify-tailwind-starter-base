@@ -36,6 +36,10 @@
   max-width: 100%;
 }
 
+.utility-bar {
+  background: none;
+}
+
 .announcement-bar__message {
   margin-right: auto;
 }
