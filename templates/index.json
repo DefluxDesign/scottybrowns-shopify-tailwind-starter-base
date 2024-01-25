@@ -197,18 +197,18 @@
       ],
       "settings": {
         "title": "",
-        "heading_size": "h2",
-        "image_width": "half",
+        "heading_size": "h0",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-3",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 8,
+        "padding_top": 20,
         "padding_bottom": 8
       }
     },
