@@ -198,7 +198,7 @@ ul {
     rgba(0, 21, 34, 1) 45%
   );
   width: 100%;
-  padding: 2rem 4rem;
+  padding: 1rem 4rem 2rem;
   margin: 0 0 6rem 0;
   color: #ebebeb;
   .product__title {
