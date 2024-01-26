@@ -229,7 +229,7 @@ ul {
   }
 }
 .collection-hero__title {
-  margin: 0;
+  margin: 0 !important;
 }
 .product__info-wrapper.grid__item.scroll-trigger.animate--slide-in {
   background: linear-gradient(45deg, #e4e4e4, transparent);
