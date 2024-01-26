@@ -234,7 +234,7 @@ ul {
   line-height: 4rem;
   background: #d6d6d6;
   padding: 1rem;
-  &h3 {
+  h3 {
     padding-bottom: 1rem;
   }
 }
