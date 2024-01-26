@@ -187,7 +187,8 @@ ul {
 }
 
 /* Product */
-.page-title-banner {
+.page-title-banner,
+.collection-hero__title {
   position: sticky;
   top: 240px;
   z-index: 1;
