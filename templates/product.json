@@ -37,6 +37,12 @@
             "show_inventory_quantity": true
           }
         },
+        "custom_liquid_xD8D4t": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"\"help\">\n<h3>Can't see your size, colour, thing(!)?<\/h3>\n<a href=\"https:\/\/scottybrowns.com\/collections\/candy-arrow\" class=\"button button--primary\" tabindex=\"-1\">CALL US<\/a>\n\n<a href=\"https:\/\/scottybrowns.com\/collections\/candy-arrow\" class=\"button button--primary\" tabindex=\"-1\">EMAIL<\/a>\n<\/div>"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -111,6 +117,7 @@
         "price",
         "variant_picker",
         "inventory_Acbe84",
+        "custom_liquid_xD8D4t",
         "quantity_selector",
         "custom_liquid_cmt8Xe",
         "buy_buttons",
