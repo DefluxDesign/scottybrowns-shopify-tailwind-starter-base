@@ -285,6 +285,11 @@ section#shopify-section-template--16481235697846__featured_collection {
   background-position: left -10px;
 }
 
+main#MainContent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .collection.section-template--16481235697846__featured_collection_TwJXVF-padding {
   background-image: url("https://cdn.shopify.com/s/files/1/0200/7688/files/sb-hills-mtb-map.svg?v=1706210455") !important;
   background: no-repeat;
