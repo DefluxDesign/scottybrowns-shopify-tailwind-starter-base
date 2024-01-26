@@ -284,7 +284,7 @@ section#shopify-section-template--16481235697846__featured_collection {
   background: no-repeat;
   background-position: left -10px;
 }
-.collection {
+.collectiongrid {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
