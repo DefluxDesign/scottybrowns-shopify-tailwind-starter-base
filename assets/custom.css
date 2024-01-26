@@ -227,6 +227,9 @@ ul {
     );
   }
 }
+.help-me {
+  display: block;
+}
 
 section#shopify-section-template--16481235697846__featured_collection {
   .collection__title.title-wrapper:after:after {
