@@ -229,6 +229,8 @@ ul {
 }
 .help-me {
   display: block;
+  width: 100%;
+  border-radius: 8px;
 }
 
 section#shopify-section-template--16481235697846__featured_collection {
