@@ -228,7 +228,7 @@ ul {
   }
 }
 .product__info-wrapper.grid__item.scroll-trigger.animate--slide-in {
-  background: #eee;
+  background: #eee, linear-gradient(30deg, #eee 25%, #ddd 100%);
   border-radius: 8px 0 0 8px;
   padding: 2rem;
 }
