@@ -189,7 +189,7 @@ ul {
 /* Product */
 .page-title-banner {
   position: sticky;
-  top: 260px;
+  top: 240px;
   z-index: 1;
   background: rgb(10, 60, 92);
   background: linear-gradient(
