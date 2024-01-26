@@ -232,7 +232,8 @@ ul {
   border-radius: 8px 0 0 8px;
   padding: 2rem;
 }
-.help-me {
+.help-me,
+variant-selects {
   display: block;
   width: 100%;
   border-radius: 8px;
