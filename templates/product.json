@@ -40,7 +40,7 @@
         "custom_liquid_xD8D4t": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"help-me\">\n<h3>Can't see your size, colour, thing(!)?<\/h3>\n<a href=\"https:\/\/scottybrowns.com\/collections\/candy-arrow\" class=\"button button--primary\" tabindex=\"-1\">CALL US<\/a>\n\n<a href=\"https:\/\/scottybrowns.com\/collections\/candy-arrow\" class=\"button button--primary\" tabindex=\"-1\">EMAIL<\/a>\n<\/div>"
+            "custom_liquid": "<div class=\"help-me\">\n<h3>Can't see your size, colour, thing(!)?We could have it, getit.<\/h3>\n<a href=\"https:\/\/scottybrowns.com\/collections\/candy-arrow\" class=\"button button--primary\" tabindex=\"-1\">CALL US<\/a>\n\n<a href=\"https:\/\/scottybrowns.com\/collections\/candy-arrow\" class=\"button button--primary\" tabindex=\"-1\">EMAIL<\/a>\n<\/div>"
           }
         },
         "quantity_selector": {
