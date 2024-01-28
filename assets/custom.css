@@ -199,6 +199,8 @@ ul {
   top: 240px;
   @media screen and (max-width: 768px) {
     top: 205px;
+    padding: 1.5rem;
+    font-size: 2rem;
   }
   z-index: 1;
   background: rgb(10, 60, 92);
