@@ -46,10 +46,6 @@
 
 /* Header */
 
-.scrolled-past-header .page-title-banner {
-  font-size: 8px;
-}
-
 sticky-header.header-wrapper {
   background-image: url(https://cdn.shopify.com/s/files/1/0200/7688/files/sb-header-b-4.svg?v=1706173226),
     linear-gradient(46deg, #0e151d 32%, #192533 85%);
@@ -195,7 +191,7 @@ ul {
   margin: 0 auto;
 }
 
-/* Product */
+/* Product - Collections - 2ndpart */
 .page-title-banner,
 .collection-hero__title {
   position: sticky;
@@ -204,6 +200,9 @@ ul {
     top: 205px;
     padding: 1.5rem;
     font-size: 2rem;
+  }
+  .scrolled {
+    top: 120px;
   }
   z-index: 1;
   background: rgb(10, 60, 92);
