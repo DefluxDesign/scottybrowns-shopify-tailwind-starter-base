@@ -196,6 +196,7 @@ ul {
 .collection-hero__title {
   position: sticky;
   top: 240px;
+  transition: all 1s ease-in-out;
   @media screen and (max-width: 768px) {
     top: 205px;
     padding: 1.5rem;
