@@ -304,9 +304,9 @@
   {% endif %}
 {% endfor %}
 
-    <main id="MainContent" class="{% if product.description contains '<iframe' %}<div class="iframe">collectiongrid</div>
+    <main id="MainContent" class="{% if has_iframe %}
+  <!-- Your code here -->
 {% endif %}
-
 content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
