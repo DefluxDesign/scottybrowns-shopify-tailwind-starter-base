@@ -92,6 +92,10 @@ header .header__search {
   padding: 0 20px !important;
 }
 
+a.header__icon.header__icon--account.link.focus-inset.small-hide {
+  display: flex !important;
+}
+
 .gm-menu-installed .gm-menu.gm-submenu-align-center {
   width: calc(100% + 48px);
 }
