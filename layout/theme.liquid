@@ -295,6 +295,15 @@
 
     {% sections 'header-group' %}
 
+{% assign description_words = product.description | split: ' ' %}
+{% assign has_iframe = false %}
+{% for word in description_words %}
+  {% if word == 'iframe' %}
+    {% assign has_iframe = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
     <main id="MainContent" class="{% if product.description contains '<iframe' %}<div class="iframe">collectiongrid</div>
 {% endif %}
 
