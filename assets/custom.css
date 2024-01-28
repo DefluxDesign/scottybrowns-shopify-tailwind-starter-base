@@ -297,8 +297,6 @@ section#shopify-section-template--16481235697846__featured_collection {
 .collectiongrid {
   display: grid;
   grid-template-columns: 1fr 1fr; /* Two columns by default */
-
-  /* Media query for screen widths below 768px */
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr; /* One column below 768px */
   }
