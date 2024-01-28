@@ -144,7 +144,6 @@ section#shopify-section-template--16481235697846__slideshow_mfJYJV {
 }
 
 .banner--mobile-bottom:not(.banner--stacked) .banner__content {
-  order: 2;
   margin: -7rem 2rem 0;
   width: calc(100% - 4rem);
 }
