@@ -247,6 +247,12 @@ ul {
     font-size: 2rem;
   }
 }
+.product__title.scrolled > *,
+.collection__title.scrolled > * {
+  @media screen and (max-width: 768px) {
+    font-size: 1rem;
+  }
+}
 
 .collection-hero__title {
   margin: 0 !important;
