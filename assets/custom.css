@@ -243,7 +243,7 @@ ul {
 }
 .product__title > *,
 .collection__title > * {
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 412px) {
     font-size: 2rem;
     transition: all 1s ease-out;
   }
