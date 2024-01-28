@@ -306,12 +306,11 @@
 
     <main id="MainContent" class="
 content-for-layout focus-none" role="main" tabindex="-1">
-      {{ content_for_layout }}
-      
-{% if product.description contains 'check' %}
+      {% if product.description contains 'check' %}
  hello
 {% endif %}
 
+      {{ content_for_layout }}
     </main>
 
     {% sections 'footer-group' %}
