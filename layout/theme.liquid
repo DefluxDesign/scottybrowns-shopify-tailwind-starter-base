@@ -297,12 +297,6 @@
 
 {% assign description_words = product.description | split: ' ' %}
 {% assign has_iframe = false %}
-{% for word in description_words %}
-  {% if word == 'iframe' %}
-    {% assign has_iframe = true %}
-    {% break %}
-  {% endif %}
-{% endfor %}
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
