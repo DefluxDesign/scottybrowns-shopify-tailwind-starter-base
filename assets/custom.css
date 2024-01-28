@@ -241,6 +241,10 @@ ul {
     );
   }
 }
+.product__title > *,
+.collection__title > * {
+}
+
 .collection-hero__title {
   margin: 0 !important;
 }
