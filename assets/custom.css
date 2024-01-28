@@ -61,25 +61,24 @@ subheader {
   grid-template-columns: 1fr 40px 40px 40px;
   display: grid;
   border-top: 2px solid #10141d;
-}
+  .header__icon {
+    border: 1px solid #fff;
+    border-radius: 30px;
+    width: 3.8rem;
+    height: 3.8rem;
+  }
 
-.header__icon {
-  border: 1px solid #fff;
-  border-radius: 30px;
-  width: 3.8rem;
-  height: 3.8rem;
-}
+  .header__icon:nth-child(1n) {
+    border: 1px solid #1da3ddb8;
+  }
 
-.header__icon:nth-child(1n) {
-  border: 1px solid #1da3ddb8;
-}
+  .header__icon:nth-child(2n) {
+    border: 1px solid #e4429878;
+  }
 
-.header__icon:nth-child(2n) {
-  border: 1px solid #e4429878;
-}
-
-.header__icon:nth-child(3n) {
-  border: 1px solid #ccdb2d69;
+  .header__icon:nth-child(3n) {
+    border: 1px solid #ccdb2d69;
+  }
 }
 
 /* mega menu full width */
