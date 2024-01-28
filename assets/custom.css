@@ -99,6 +99,7 @@ header .header__search {
 .gm-menu-installed .gm-menu .gm-grid {
   max-width: 1440px;
   margin: 0 auto;
+  @media screen and;
 }
 
 #menu-drawer.gradient {
@@ -140,6 +141,12 @@ section#shopify-section-template--16481235697846__slideshow_mfJYJV {
     rgba(21, 209, 252, 0.7) 14%,
     rgba(23, 115, 176, 0.7) 81%
   );
+}
+
+.banner--mobile-bottom:not(.banner--stacked) .banner__content {
+  order: 2;
+  margin: -7rem 2rem 0;
+  width: calc(100% - 4rem);
 }
 
 slideshow-component:not(.page-width) .slider-buttons {
