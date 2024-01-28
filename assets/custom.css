@@ -202,7 +202,7 @@ ul {
     padding: 1.5rem;
   }
   &.scrolled {
-    top: 160px;
+    top: 137px;
   }
   z-index: 1;
   background: rgb(10, 60, 92);
