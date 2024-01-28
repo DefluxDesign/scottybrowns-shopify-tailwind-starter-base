@@ -301,7 +301,9 @@ content-for-layout focus-none" role="main" tabindex="-1">
     </main>
 
 {% if collection.description contains '<iframe' %}
-  <!-- Your code here -->
+    <script>
+      console.log("Product description contains an <iframe> tag.");
+    </script>
 {% endif %}
 
     
