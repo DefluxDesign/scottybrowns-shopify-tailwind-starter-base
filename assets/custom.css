@@ -102,7 +102,7 @@ header .header__search {
   margin: 0 auto;
 }
 
-#menu-drawer .gradient {
+.js details[open].menu-opening > .menu-drawer {
   background: linear-gradient(
     228deg,
     rgba(21, 209, 252, 0.7) 14%,
