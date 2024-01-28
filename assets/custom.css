@@ -195,8 +195,8 @@ ul {
 .page-title-banner,
 .collection-hero__title {
   position: sticky;
-  top: 240px;
-  transition: all 1s ease-in-out;
+  top: 220px;
+  transition: all 0.5s ease-out;
   @media screen and (max-width: 760px) {
     top: 205px;
     padding: 1.5rem;
