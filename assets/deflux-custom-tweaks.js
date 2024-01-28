@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Select the elements with class .page-title or .collection-title
-    var pageTitle = document.querySelectorAll('.page-title, .collection-title');
+    var pageTitle = document.querySelectorAll('.page-title-banner, .collection-hero__title');
 
     // Add scroll event listener to the window
     window.addEventListener('scroll', function() {
