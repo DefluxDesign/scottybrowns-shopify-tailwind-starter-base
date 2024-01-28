@@ -103,11 +103,8 @@ header .header__search {
 }
 
 #menu-drawer.gradient {
-  background: linear-gradient(
-    228deg,
-    rgba(21, 209, 252, 0.7) 14%,
-    rgba(23, 115, 176, 0.7) 81%
-  );
+  background-image: url(https://cdn.shopify.com/s/files/1/0200/7688/files/sb-header-b-4.svg?v=1706173226),
+    linear-gradient(46deg, #0e151d 32%, #192533 85%);
 }
 
 .footer-block__details-content {
