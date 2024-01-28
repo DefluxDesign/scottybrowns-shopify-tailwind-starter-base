@@ -201,7 +201,7 @@ ul {
     padding: 1.5rem;
     font-size: 2rem;
   }
-  .scrolled {
+  &.scrolled {
     top: 120px;
   }
   z-index: 1;
