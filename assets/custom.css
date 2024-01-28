@@ -245,7 +245,7 @@ ul {
 .collection__title > * {
   @media screen and (max-width: 760px) {
     font-size: 2rem;
-    transition: all 1s ease-out;
+    transition: all 0.5s ease-out;
   }
 }
 .scrolled .product__title > *,
