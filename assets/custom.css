@@ -200,9 +200,9 @@ ul {
   @media screen and (max-width: 768px) {
     top: 205px;
     padding: 1.5rem;
-    &h1 {
-      font-size: 2rem;
-    }
+  }
+  &h1 {
+    font-size: 2rem;
   }
   &.scrolled {
     top: 120px;
