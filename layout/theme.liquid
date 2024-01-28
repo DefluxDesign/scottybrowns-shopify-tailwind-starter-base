@@ -295,22 +295,6 @@
 
     {% sections 'header-group' %}
 
-{% assign description_words = product.description | split: ' ' %}
-{% assign has_iframe = false %}
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var productDescription = "{{ product.description | escape }}";
-    if (productDescription.indexOf('<iframe') !== -1) {
-      // Code to execute if <iframe> tag is found
-      console.log("Product description contains an <iframe> tag.");
-    } else {
-      // Code to execute if <iframe> tag is not found
-      console.log("Product description does not contain an <iframe> tag.");
-    }
-  });
-</script>
-
     <main id="MainContent" class="
 content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
