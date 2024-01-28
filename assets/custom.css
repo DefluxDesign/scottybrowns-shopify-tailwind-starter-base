@@ -161,6 +161,12 @@ slideshow-component:not(.page-width) .slider-buttons {
 .slider-button--prev {
   display: none !important;
 }
+/* #make next slide more visible - up from 3rem */
+.slider--tablet.grid--peek.grid--1-col-tablet-down .grid__item,
+.slider--mobile.grid--peek.grid--1-col-tablet-down .grid__item {
+  width: calc(100% - var(--grid-mobile-horizontal-spacing) - 8rem);
+}
+
 /* #sbnow instagram */
 li#Slide-template--16481235697846__multicolumn-1 {
   max-width: 200rem;
