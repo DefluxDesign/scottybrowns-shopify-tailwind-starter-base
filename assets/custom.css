@@ -46,9 +46,8 @@
 
 /* Header */
 
-
-.scrolled-past-header .page-title-banner{
-  
+.scrolled-past-header .page-title-banner {
+  font-size: 8px;
 }
 
 sticky-header.header-wrapper {
@@ -86,9 +85,8 @@ subheader {
   }
 
   .small-hide {
-    display: none!important; */
-}
-
+    display: none !important;
+  }
 }
 
 /* mega menu full width */
