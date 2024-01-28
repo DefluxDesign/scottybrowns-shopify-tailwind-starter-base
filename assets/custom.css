@@ -102,11 +102,11 @@ header .header__search {
   margin: 0 auto;
 }
 
-body#menu-drawer .gradient {
+#menu-drawer .gradient {
   background: linear-gradient(
     228deg,
     rgba(21, 209, 252, 0.7) 14%,
-    rgba(23, 115, 176, 0.7) 81%
+    rgba(23, 115, 176, 0.7) 81% !important
   );
 }
 
