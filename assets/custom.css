@@ -197,6 +197,9 @@ ul {
 .collection-hero__title {
   position: sticky;
   top: 240px;
+  @media screen and (max-width: 768px) {
+    top: 205px;
+  }
   z-index: 1;
   background: rgb(10, 60, 92);
   background: linear-gradient(
