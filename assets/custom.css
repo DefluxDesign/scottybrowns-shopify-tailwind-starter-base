@@ -83,10 +83,6 @@ subheader {
   .header__icon:nth-child(3n) {
     border: 1px solid #ccdb2d69;
   }
-
-  .small-hide {
-    display: none !important;
-  }
 }
 
 /* mega menu full width */
