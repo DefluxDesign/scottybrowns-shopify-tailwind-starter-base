@@ -243,6 +243,7 @@ ul {
 }
 .product__title > *,
 .collection__title > * {
+  font-size: 2rem;
 }
 
 .collection-hero__title {
