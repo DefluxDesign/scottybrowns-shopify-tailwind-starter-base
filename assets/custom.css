@@ -197,7 +197,7 @@ ul {
   position: sticky;
   top: 240px;
   transition: all 1s ease-in-out;
-  @media screen and (max-width: 640px) {
+  @media screen and (max-width: 760px) {
     top: 205px;
     padding: 1.5rem;
   }
@@ -243,14 +243,14 @@ ul {
 }
 .product__title > *,
 .collection__title > * {
-  @media screen and (max-width: 640px) {
+  @media screen and (max-width: 760px) {
     font-size: 2rem;
     transition: all 1s ease-out;
   }
 }
 .scrolled .product__title > *,
 .scrolled .collection__title > * {
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 760px) {
     font-size: 1.8rem;
   }
 }
