@@ -296,9 +296,7 @@
     {% sections 'header-group' %}
 
     <main id="MainContent" class="{% if collection.description contains '<iframe' %}
-    <script>
-      console.log("Product description contains an <iframe> tag.");
-    </script>
+    collection-grid
 {% endif %}
 content-for-layout focus-none" role="main" tabindex="-1"  >
       {{ content_for_layout }}
