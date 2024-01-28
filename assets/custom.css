@@ -344,3 +344,18 @@ section#shopify-section-sections--16481235402934__newsletter_Y84w9h {
 .cart-count-bubble {
   right: 4.4rem;
 }
+
+.videoWrapper {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio (height/width) */
+  overflow: hidden;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
