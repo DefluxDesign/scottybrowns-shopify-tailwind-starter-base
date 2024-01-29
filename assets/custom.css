@@ -513,9 +513,7 @@ div#instagram {
   z-index: 2;
   font-size: 2.4rem;
 }
-div#Banner-template--16481235828918__image_banner_xrfd7e
-  .banner__box
-  content-container {
+div#Banner-template--16481235828918__image_banner_xrfd7e.banner__box {
   content: "";
   background-size: contain;
   background: url(/cdn/shop/files/workshop-logo-sb.svg?v=1706517929);
@@ -526,7 +524,4 @@ div#Banner-template--16481235828918__image_banner_xrfd7e
   z-index: 2;
   top: -161px;
   height: 260px;
-  h2 {
-    opacity: 0;
-  }
 }
