@@ -56,11 +56,17 @@
       if (isMobile && wordCount(descriptionText) > 200) {
         var button = document.createElement("button");
         button.textContent = "Read more";
+        var collapsed = true;
         button.addEventListener("click", function() {
-          description.classList.toggle("collapsed");
-          button.textContent = description.classList.contains("collapsed") ? "Read more" : "Read less";
+          collapsed = !collapsed;
+          if (collapsed) {
+            description.innerHTML = descriptionText.substring(0, 200) + "...";
+            button.textContent = "Read more";
+          } else {
+            description.innerHTML = descriptionText;
+            button.textContent = "Read less";
+          }
         });
-        description.classList.add("collapsed");
         description.innerHTML = descriptionText.substring(0, 200) + "...";
         description.parentNode.insertBefore(button, description.nextSibling);
       }
@@ -71,7 +77,6 @@
     }
   });
 </script>
-
 
 
 {% schema %}
