@@ -518,6 +518,8 @@ div#Banner-template--16481235828918__image_banner_xrfd7e {
     content: "";
     background-size: contain;
     background: url("https://cdn.shopify.com/s/files/1/0200/7688/files/workshop-logo-sb.svg?v=1706517929");
+    background-repeat: no-repeat;
+
     width: 100%;
     position: absolute;
     z-index: 2;
