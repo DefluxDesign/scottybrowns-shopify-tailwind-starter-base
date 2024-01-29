@@ -419,7 +419,7 @@ subfooter {
 }
 
 @media screen and (max-width: 470px) {
-  .subfooter img {
+  subfooter img {
     padding-bottom: 13px;
     object-fit: cover;
     height: 112px;
