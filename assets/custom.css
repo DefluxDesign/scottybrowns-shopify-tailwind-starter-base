@@ -278,7 +278,7 @@ ul {
 
 .collection-hero {
   .page-width {
-    padding: 0;
+    padding: 0 4rem 8rem;
   }
 }
 @media screen and (min-width: 750px) {
