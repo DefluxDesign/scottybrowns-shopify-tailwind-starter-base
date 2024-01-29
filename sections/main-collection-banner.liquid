@@ -53,12 +53,10 @@
       var descriptionText = description.textContent.trim();
       var isMobile = window.matchMedia("(max-width: 768px)").matches;
 
-      // Skip if the element contains class .videoWrapper
-      if (description.classList.contains("videoWrapper")) {
-        return;
-      }
+      // Check if the current element or any of its ancestors contain the class .videoWrapper
+      var isVideoWrapper = description.matches('.videoWrapper, .videoWrapper *');
 
-      if (isMobile && wordCount(descriptionText) > 200) {
+      if (isMobile && wordCount(descriptionText) > 200 && !isVideoWrapper) {
         var button = document.createElement("button");
         button.textContent = "Read more";
         var collapsed = true;
@@ -82,6 +80,7 @@
     }
   });
 </script>
+
 
 {% schema %}
 {
