@@ -358,6 +358,21 @@
 </picture>
 
 
+<style>
+  .responsive-image {
+    width: 70%;
+    height: auto;
+    max-width: 100%; /* Ensure image doesn't exceed its container */
+  }
+</style>
+
+<img class="responsive-image" 
+     src="https://cdn.shopify.com/s/files/1/0200/7688/files/sb-hdr-mob-subheader.svg?v=1706486319" 
+     srcset="https://cdn.shopify.com/s/files/1/0200/7688/files/sb-hdr-mob-subheader.svg?v=1706486319 768w, 
+             https://cdn.shopify.com/s/files/1/0200/7688/files/sb-header-b-4.svg?v=1706173226 1200w" 
+     sizes="(max-width: 768px) 100vw, 70vw" 
+     alt="SB Candy Stripes">
+      
       {% render 'header-search', input_id: 'Search-In-Modal' %}
  <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
         {%- liquid
