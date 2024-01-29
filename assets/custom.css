@@ -499,3 +499,18 @@ div#instagram {
   --color-quaternary: #1e2735;
   --color-quinary: #10151d;
 }
+
+.section-template--16481235697846__multicolumn-padding h3.inline-richtext {
+  width: 95px;
+  height: 95px;
+  display: flex;
+  background: #1ba3dd;
+  align-items: center;
+  text-align: center;
+  border-radius: 50%;
+  border: 5px solid #1ba3dd;
+  margin-bottom: -49px;
+  position: relative;
+  z-index: 2;
+  font-size: 2.4rem;
+}
