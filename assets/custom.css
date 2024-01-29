@@ -490,6 +490,7 @@ div#instagram {
   color: var(--color-primary);
   animation: shadows 1.2s ease-in infinite;
   letter-spacing: 0.4rem;
+  font-size: 4rem;
 }
 
 :root {
