@@ -416,14 +416,15 @@ section#shopify-section-template--16481235697846__featured_collection {
 subfooter {
   position: relative;
   top: -93px;
-  &img {
-    @media screen and (max-width: 470px) {
-      padding-bottom: 13px;
-      object-fit: cover;
-      height: 112px;
-      margin-top: 40px;
-      object-position: 52%;
-    }
+}
+
+@media screen and (min-width: 471px) {
+  .subfooter img {
+    padding-bottom: 13px;
+    object-fit: cover;
+    height: 112px;
+    margin-top: 40px;
+    object-position: 52%;
   }
 }
 
