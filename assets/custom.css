@@ -350,7 +350,7 @@ variant-selects {
   }
 }
 section#shopify-section-template--16481235697846__featured_collection {
-  .collection__title.title-wrapper:after:after {
+  .collection__title.title-wrapper:after {
     display: none !important;
   }
 }
