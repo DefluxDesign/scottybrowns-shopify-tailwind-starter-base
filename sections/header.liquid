@@ -341,10 +341,24 @@
 
   </header>
     <subheader>
-<picture>
-  <source media="(max-width: 768px)" srcset="https://cdn.shopify.com/s/files/1/0200/7688/files/sb-hdr-mob-subheader.svg" width="70%" height="auto" style="padding-top:20px">
-  <source media="(min-width: 769px)" srcset="https://cdn.shopify.com/s/files/1/0200/7688/files/subheader-sb.svg" width="70%" height="auto" style="padding-top:13px">
+<style>
+  .responsive-picture {
+    width: 70%;
+    height: auto;
+  }
+</style>
+
+<picture class="responsive-picture">
+  <!-- Small screen image -->
+  <source media="(max-width: 768px)" srcset="{{ 'small-image.jpg' | asset_url }}">
+  
+  <!-- Large screen image -->
+  <source media="(min-width: 769px)" srcset="{{ 'large-image.jpg' | asset_url }}">
+  
+  <!-- Fallback image for browsers that do not support <picture> element -->
+  <img src="{{ 'fallback-image.jpg' | asset_url }}" alt="Description of the image">
 </picture>
+
 
       {% render 'header-search', input_id: 'Search-In-Modal' %}
  <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
