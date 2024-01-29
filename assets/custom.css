@@ -483,8 +483,8 @@ div#instagram {
 }
 
 .collection__title h2 {
-  text-shadow: 3px 3px 0 var(--color-secondary), 6px 6px 0 var(--color-tertiary),
-    9px 9px var(--color-quaternary), 12px 12px 0 var(--color-quinary);
+  text-shadow: 1px 1px 0 var(--color-secondary), 2px 2px 0 var(--color-tertiary),
+    3px 3px var(--color-quaternary), 4px 4px 0 var(--color-quinary);
   text-transform: uppercase;
   margin: 0;
   color: var(--color-primary);
