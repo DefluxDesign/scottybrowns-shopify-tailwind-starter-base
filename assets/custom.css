@@ -103,7 +103,6 @@ a.header__icon.header__icon--account.link.focus-inset.small-hide {
 .gm-menu-installed .gm-menu .gm-grid {
   max-width: 1440px;
   margin: 0 auto;
-  @media screen and;
 }
 
 #menu-drawer.gradient {
