@@ -378,7 +378,7 @@ section#shopify-section-template--16481235697846__featured_collection {
 .collectiongrid {
   display: grid;
   grid-template-columns: 1fr 1fr; /* Two columns by default */
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1024px) {
     grid-template-columns: 1fr; /* One column below 768px */
   }
 }
