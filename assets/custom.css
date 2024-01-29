@@ -156,7 +156,7 @@ section#shopify-section-template--16481235697846__slideshow_mfJYJV {
   );
 }
 
-@media screen and(max-width: 460px) {
+@media screen and (max-width: 460px) {
   .banner--mobile-bottom:not(.banner--stacked) .banner__content {
     margin: -7rem 2rem 0;
     width: calc(100% - 4rem);
