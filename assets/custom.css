@@ -63,7 +63,7 @@ sticky-header.header-wrapper {
 subheader {
   .substripes {
     width: 76%;
-    margin-top: 4%;
+    margin-top: 13px;
   }
   width: 100%;
   height: fit-content;
