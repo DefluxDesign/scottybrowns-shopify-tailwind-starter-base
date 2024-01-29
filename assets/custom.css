@@ -117,8 +117,8 @@ nav.header__inline-menu {
 
 @media screen and (max-width: 768px) {
   .gm-menu-installed .gm-menu .gm-grid {
-    display: grid;
-    grid-template-columns: 1fr;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
   }
 }
 
