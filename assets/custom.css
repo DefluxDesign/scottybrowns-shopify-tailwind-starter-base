@@ -275,6 +275,17 @@ ul {
 .collection-hero__title {
   margin: 0 !important;
 }
+
+.collection-hero {
+  .page-width {
+    padding: 0;
+  }
+}
+
+.collection-hero__description {
+  max-width: 100%;
+}
+
 .product__info-wrapper.grid__item.scroll-trigger.animate--slide-in {
   background: linear-gradient(45deg, #e4e4e4, transparent);
   border-radius: 8px 0 0 8px;
