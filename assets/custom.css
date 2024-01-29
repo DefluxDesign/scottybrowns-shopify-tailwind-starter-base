@@ -226,11 +226,28 @@ ul {
 }
 
 /* Product - Collections - 2ndpart */
+:root {
+  --color-primary: #f6aca2;
+  --color-secondary: #f49b90;
+  --color-tertiary: #f28b7d;
+  --color-quaternary: #f07a6a;
+  --color-quinary: #ee6352;
+}
+
 .page-title-banner,
 .collection-hero__title {
   position: sticky;
   top: 220px;
   transition: all 0.5s ease-out;
+
+  text-shadow: 3px 3px 0 var(--color-secondary), 6px 6px 0 var(--color-tertiary),
+    9px 9px var(--color-quaternary), 12px 12px 0 var(--color-quinary);
+  text-transform: uppercase;
+  font-size: calc(2rem + 5vw);
+  color: var(--color-primary);
+  animation: shadows 1.2s ease-in infinite;
+  letter-spacing: 0.4rem;
+
   @media screen and (max-width: 760px) {
     top: 210px;
     padding: 1.5rem;
