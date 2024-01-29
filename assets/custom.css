@@ -96,6 +96,12 @@ a.header__icon.header__icon--account.link.focus-inset.small-hide {
   display: flex !important;
 }
 
+nav.header__inline-menu {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
 .gm-menu-installed .gm-menu.gm-submenu-align-center {
   width: calc(100% + 48px);
 }
