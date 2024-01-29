@@ -53,6 +53,11 @@
       var descriptionText = description.textContent.trim();
       var isMobile = window.matchMedia("(max-width: 768px)").matches;
 
+      // Skip if the element contains class .videoWrapper
+      if (description.classList.contains("videoWrapper")) {
+        return;
+      }
+
       if (isMobile && wordCount(descriptionText) > 200) {
         var button = document.createElement("button");
         button.textContent = "Read more";
