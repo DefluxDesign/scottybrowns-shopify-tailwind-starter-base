@@ -525,4 +525,7 @@ div#Banner-template--16481235828918__image_banner_xrfd7e
   z-index: 2;
   top: -161px;
   height: 260px;
+  h2 {
+    opacity: 0;
+  }
 }
