@@ -522,6 +522,9 @@ div#instagram {
   width: 100%;
   position: absolute;
   z-index: 2;
-  top: -161px;
-  height: 260px;
+  top: 0px;
+  height: 300px;
+}
+.banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient {
+  margin-top: 195px;
 }
