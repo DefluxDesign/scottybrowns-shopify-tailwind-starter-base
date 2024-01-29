@@ -5,6 +5,7 @@
       "blocks": {
         "heading_97tKVt": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "BIKE WORKSHOP",
             "heading_size": "h1"
@@ -40,7 +41,7 @@
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
         "image_behavior": "fixed",
