@@ -488,7 +488,7 @@ div#instagram {
   text-transform: uppercase;
   margin: 0;
   color: var(--color-primary);
-  animation: shadows 1.2s ease-in infinite;
+  animation: shadowz 2s ease-in infinite;
   letter-spacing: 0.4rem;
   font-size: 4rem;
 }
