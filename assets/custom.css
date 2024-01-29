@@ -408,7 +408,7 @@ section#shopify-section-sections--16481235402934__newsletter_Y84w9h {
 /* Cart */
 .cart-count-bubble {
   right: 4.4rem;
-  left: 0rem;
+  left: inherit;
 }
 
 /* Responsive Video */
