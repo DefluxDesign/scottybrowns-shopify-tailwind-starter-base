@@ -288,6 +288,14 @@ ul {
   }
 }
 
+.facets-container {
+  background: white;
+  padding: 1rem 2rem 0 1rem;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  height: 46px;
+}
+
 .product__info-wrapper.grid__item.scroll-trigger.animate--slide-in {
   background: linear-gradient(45deg, #e4e4e4, transparent);
   border-radius: 8px 0 0 8px;
