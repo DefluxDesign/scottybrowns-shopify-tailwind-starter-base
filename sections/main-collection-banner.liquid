@@ -60,14 +60,14 @@
         button.addEventListener("click", function() {
           collapsed = !collapsed;
           if (collapsed) {
-            description.innerHTML = truncateText(descriptionText, 200) + "...";
+            description.innerHTML = descriptionText.substring(0, 200) + "...";
             button.textContent = "Read more";
           } else {
             description.innerHTML = descriptionText;
             button.textContent = "Read less";
           }
         });
-        description.innerHTML = truncateText(descriptionText, 200) + "...";
+        description.innerHTML = descriptionText.substring(0, 200) + "...";
         description.parentNode.insertBefore(button, description.nextSibling);
       }
     });
@@ -75,16 +75,8 @@
     function wordCount(text) {
       return text.split(/\s+/).length;
     }
-
-    function truncateText(text, maxLength) {
-      if (text.length > maxLength) {
-        return text.substring(0, maxLength);
-      }
-      return text;
-    }
   });
 </script>
-
 
 {% schema %}
 {
