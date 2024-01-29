@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Add scroll event listener to the window
     window.addEventListener('scroll', function() {
       // Check if the vertical scroll position is greater than or equal to 150px
-      if (window.scrollY >= 150) {
+      if (window.scrollY >= 120) {
         // Iterate over each selected element and add the 'scrolled' class
         pageTitle.forEach(function(element) {
           element.classList.add('scrolled');
