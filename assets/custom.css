@@ -385,6 +385,16 @@ section#shopify-section-template--16481235697846__featured_collection {
   background-position: right bottom;
 }
 
+/* Hide overflow for collapsed description */
+.collection-hero__description.collapsed {
+  overflow: hidden;
+}
+
+/* Show 'Read more' button when description is collapsed */
+.collection-hero__description.collapsed + button {
+  display: block;
+}
+
 .product__column-sticky {
   top: 265px !important;
 }
