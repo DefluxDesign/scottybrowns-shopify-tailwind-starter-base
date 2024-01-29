@@ -524,6 +524,9 @@ div#instagram {
   z-index: 2;
   top: 0px;
   height: 330px;
+  @media screen and (max-width: 470px) {
+    top: -303px;
+  }
 }
 .banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient {
   margin-top: 195px;
