@@ -47,13 +47,16 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    var productDescriptions = document.querySelectorAll(".collection-hero__description:not(.videoWrapper)");
+    var productDescriptions = document.querySelectorAll(".collection-hero__description");
 
     productDescriptions.forEach(function(description) {
       var descriptionText = description.textContent.trim();
       var isMobile = window.matchMedia("(max-width: 768px)").matches;
 
-      if (isMobile && wordCount(descriptionText) > 200) {
+      // Check if the current element or any of its ancestors contain the class .videoWrapper
+      var isInsideVideoWrapper = description.closest('.videoWrapper');
+
+      if (!isInsideVideoWrapper && isMobile && wordCount(descriptionText) > 200) {
         var button = document.createElement("button");
         button.textContent = "Read more";
         var collapsed = true;
