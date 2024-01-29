@@ -434,6 +434,9 @@ div#instagram {
   padding: 1rem;
   border-radius: 5px;
   margin-bottom: 3rem;
+  #tag {
+    text-align: right;
+  }
 }
 
 /* Cart */
