@@ -50,28 +50,31 @@
     var productDescriptions = document.querySelectorAll(".collection-hero__description");
 
     productDescriptions.forEach(function(description) {
-      var descriptionText = description.textContent.trim();
       var isMobile = window.matchMedia("(max-width: 768px)").matches;
 
       // Check if the current element or any of its ancestors contain the class .videoWrapper
-      var isVideoWrapper = description.matches('.videoWrapper, .videoWrapper *');
+      var isVideoWrapper = description.closest('.videoWrapper');
 
-      if (isMobile && wordCount(descriptionText) > 200 && !isVideoWrapper) {
-        var button = document.createElement("button");
-        button.textContent = "Read more";
-        var collapsed = true;
-        button.addEventListener("click", function() {
-          collapsed = !collapsed;
-          if (collapsed) {
-            description.innerHTML = descriptionText.substring(0, 200) + "...";
-            button.textContent = "Read more";
-          } else {
-            description.innerHTML = descriptionText;
-            button.textContent = "Read less";
-          }
-        });
-        description.innerHTML = descriptionText.substring(0, 200) + "...";
-        description.parentNode.insertBefore(button, description.nextSibling);
+      if (!isVideoWrapper && isMobile) {
+        var descriptionText = description.textContent.trim();
+
+        if (wordCount(descriptionText) > 200) {
+          var button = document.createElement("button");
+          button.textContent = "Read more";
+          var collapsed = true;
+          button.addEventListener("click", function() {
+            collapsed = !collapsed;
+            if (collapsed) {
+              description.innerHTML = descriptionText.substring(0, 200) + "...";
+              button.textContent = "Read more";
+            } else {
+              description.innerHTML = descriptionText;
+              button.textContent = "Read less";
+            }
+          });
+          description.innerHTML = descriptionText.substring(0, 200) + "...";
+          description.parentNode.insertBefore(button, description.nextSibling);
+        }
       }
     });
 
@@ -80,6 +83,7 @@
     }
   });
 </script>
+
 
 
 {% schema %}
