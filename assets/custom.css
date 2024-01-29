@@ -54,6 +54,12 @@ sticky-header.header-wrapper {
   background-attachment: unset;
 }
 
+.menu-drawer-container {
+  margin-left: 2rem;
+  background: #000;
+  border-radius: 40px;
+}
+
 subheader {
   width: 100%;
   height: fit-content;
