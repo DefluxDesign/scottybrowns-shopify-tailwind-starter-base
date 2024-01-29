@@ -230,7 +230,7 @@ ul {
     margin: 0px;
   }
   &.scrolled {
-    top: 137px;
+    top: 132px;
   }
   z-index: 1;
   background: rgb(10, 60, 92);
