@@ -226,14 +226,6 @@ ul {
 }
 
 /* Product - Collections - 2ndpart */
-:root {
-  --color-primary: #f6aca2;
-  --color-secondary: #f49b90;
-  --color-tertiary: #f28b7d;
-  --color-quaternary: #f07a6a;
-  --color-quinary: #ee6352;
-}
-
 .page-title-banner,
 .collection-hero__title {
   position: sticky;
@@ -502,4 +494,12 @@ div#instagram {
   color: var(--color-primary);
   animation: shadows 1.2s ease-in infinite;
   letter-spacing: 0.4rem;
+}
+
+:root {
+  --color-primary: #f6aca2;
+  --color-secondary: #f49b90;
+  --color-tertiary: #f28b7d;
+  --color-quaternary: #f07a6a;
+  --color-quinary: #ee6352;
 }
