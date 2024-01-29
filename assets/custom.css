@@ -314,6 +314,10 @@ ul {
   height: 46px;
 }
 
+.facets__disclosure {
+  margin-right: 1.5rem;
+}
+
 .product__info-wrapper.grid__item.scroll-trigger.animate--slide-in {
   background: linear-gradient(45deg, #e4e4e4, transparent);
   border-radius: 8px 0 0 8px;
@@ -422,6 +426,16 @@ section#shopify-section-sections--16481235402934__newsletter_Y84w9h {
 .eapps-instagram-feed-posts-item-template-tile {
   border-radius: 8px;
 }
+div#instagram {
+  display: grid;
+  grid-template: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  background-color: #0f0f0f;
+  padding: 1rem;
+  border-radius: 5px;
+  margin-bottom: 3rem;
+}
+
 /* Cart */
 .cart-count-bubble {
   right: 4.4rem;
