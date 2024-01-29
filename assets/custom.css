@@ -513,14 +513,16 @@ div#instagram {
   z-index: 2;
   font-size: 2.4rem;
 }
-div#Banner-template--16481235828918__image_banner_xrfd7e{}
-.banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient:after {
-    content: '';
+div#Banner-template--16481235828918__image_banner_xrfd7e {
+  .banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient:after {
+    content: "";
+    background-size: contain;
+    background-image: url("https://cdn.shopify.com/s/files/1/0200/7688/files/workshop-logo-sb.svg?v=1706517929");
     width: 100%;
     background: #f0f8ff9c;
     position: absolute;
     z-index: 2;
     top: -66px;
     height: 130px;
-}
+  }
 }
