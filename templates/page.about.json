@@ -54,10 +54,25 @@
         "padding_top": 40,
         "padding_bottom": 40
       }
+    },
+    "video_i3hqVC": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/q6fJzZYrPes?si=3twcEY1VJ1CyiB9b",
+        "description": "COLLAB",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "image_banner_xrfd7e",
-    "main"
+    "main",
+    "video_i3hqVC"
   ]
 }
