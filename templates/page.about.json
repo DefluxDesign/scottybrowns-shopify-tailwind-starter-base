@@ -62,9 +62,9 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/youtu.be\/JStvCX_Xel0?si=1WXrCmn0XbAa8Ik8",
-        "description": "COLLAB",
+        "description": "",
         "full_width": true,
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "padding_top": 36,
         "padding_bottom": 0
       }
