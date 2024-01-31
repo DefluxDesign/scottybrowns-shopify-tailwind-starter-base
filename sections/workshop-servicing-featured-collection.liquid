@@ -172,7 +172,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.featured-collection.name",
+  "name": "t:sections.featured-workshop-collection.name",
   "tag": "section",
   "class": "section",
   "disabled_on": {
@@ -183,7 +183,7 @@
       "type": "inline_richtext",
       "id": "title",
       "default": "Featured collection",
-      "label": "t:sections.featured-collection.settings.title.label"
+      "label": "t:sections.featured-workshop-collection.settings.title.label"
     },
     {
       "type": "select",
@@ -208,30 +208,30 @@
     {
       "type": "richtext",
       "id": "description",
-      "label": "t:sections.featured-collection.settings.description.label"
+      "label": "t:sections.featured-workshop-collection.settings.description.label"
     },
     {
       "type": "checkbox",
       "id": "show_description",
-      "label": "t:sections.featured-collection.settings.show_description.label",
+      "label": "t:sections.featured-workshop-collection.settings.show_description.label",
       "default": false
     },
     {
       "type": "select",
       "id": "description_style",
-      "label": "t:sections.featured-collection.settings.description_style.label",
+      "label": "t:sections.featured-workshop-collection.settings.description_style.label",
       "options": [
         {
           "value": "body",
-          "label": "t:sections.featured-collection.settings.description_style.options__1.label"
+          "label": "t:sections.featured-workshop-collection.settings.description_style.options__1.label"
         },
         {
           "value": "subtitle",
-          "label": "t:sections.featured-collection.settings.description_style.options__2.label"
+          "label": "t:sections.featured-workshop-collection.settings.description_style.options__2.label"
         },
         {
           "value": "uppercase",
-          "label": "t:sections.featured-collection.settings.description_style.options__3.label"
+          "label": "t:sections.featured-workshop-collection.settings.description_style.options__3.label"
         }
       ],
       "default": "body"
@@ -239,7 +239,7 @@
     {
       "type": "collection",
       "id": "collection",
-      "label": "t:sections.featured-collection.settings.collection.label"
+      "label": "t:sections.featured-workshop-collection.settings.collection.label"
     },
     {
       "type": "range",
@@ -248,7 +248,7 @@
       "max": 25,
       "step": 1,
       "default": 4,
-      "label": "t:sections.featured-collection.settings.products_to_show.label"
+      "label": "t:sections.featured-workshop-collection.settings.products_to_show.label"
     },
     {
       "type": "range",
@@ -257,36 +257,36 @@
       "max": 5,
       "step": 1,
       "default": 4,
-      "label": "t:sections.featured-collection.settings.columns_desktop.label"
+      "label": "t:sections.featured-workshop-collection.settings.columns_desktop.label"
     },
     {
       "type": "checkbox",
       "id": "full_width",
-      "label": "t:sections.featured-collection.settings.full_width.label",
+      "label": "t:sections.featured-workshop-collection.settings.full_width.label",
       "default": false
     },
     {
       "type": "checkbox",
       "id": "show_view_all",
       "default": true,
-      "label": "t:sections.featured-collection.settings.show_view_all.label"
+      "label": "t:sections.featured-workshop-collection.settings.show_view_all.label"
     },
     {
       "type": "select",
       "id": "view_all_style",
-      "label": "t:sections.featured-collection.settings.view_all_style.label",
+      "label": "t:sections.featured-workshop-collection.settings.view_all_style.label",
       "options": [
         {
           "value": "link",
-          "label": "t:sections.featured-collection.settings.view_all_style.options__1.label"
+          "label": "t:sections.featured-workshop-collection.settings.view_all_style.options__1.label"
         },
         {
           "value": "outline",
-          "label": "t:sections.featured-collection.settings.view_all_style.options__2.label"
+          "label": "t:sections.featured-workshop-collection.settings.view_all_style.options__2.label"
         },
         {
           "value": "solid",
-          "label": "t:sections.featured-collection.settings.view_all_style.options__3.label"
+          "label": "t:sections.featured-workshop-collection.settings.view_all_style.options__3.label"
         }
       ],
       "default": "solid"
@@ -294,7 +294,7 @@
     {
       "type": "checkbox",
       "id": "enable_desktop_slider",
-      "label": "t:sections.featured-collection.settings.enable_desktop_slider.label",
+      "label": "t:sections.featured-workshop-collection.settings.enable_desktop_slider.label",
       "default": false
     },
     {
@@ -306,7 +306,7 @@
     },
     {
       "type": "header",
-      "content": "t:sections.featured-collection.settings.header.content"
+      "content": "t:sections.featured-workshop-collection.settings.header.content"
     },
     {
       "type": "select",
@@ -314,19 +314,19 @@
       "options": [
         {
           "value": "adapt",
-          "label": "t:sections.featured-collection.settings.image_ratio.options__1.label"
+          "label": "t:sections.featured-workshop-collection.settings.image_ratio.options__1.label"
         },
         {
           "value": "portrait",
-          "label": "t:sections.featured-collection.settings.image_ratio.options__2.label"
+          "label": "t:sections.featured-workshop-collection.settings.image_ratio.options__2.label"
         },
         {
           "value": "square",
-          "label": "t:sections.featured-collection.settings.image_ratio.options__3.label"
+          "label": "t:sections.featured-workshop-collection.settings.image_ratio.options__3.label"
         }
       ],
       "default": "adapt",
-      "label": "t:sections.featured-collection.settings.image_ratio.label"
+      "label": "t:sections.featured-workshop-collection.settings.image_ratio.label"
     },
     {
       "type": "select",
@@ -373,44 +373,44 @@
       "type": "checkbox",
       "id": "show_secondary_image",
       "default": false,
-      "label": "t:sections.featured-collection.settings.show_secondary_image.label"
+      "label": "t:sections.featured-workshop-collection.settings.show_secondary_image.label"
     },
     {
       "type": "checkbox",
       "id": "show_vendor",
       "default": false,
-      "label": "t:sections.featured-collection.settings.show_vendor.label"
+      "label": "t:sections.featured-workshop-collection.settings.show_vendor.label"
     },
     {
       "type": "checkbox",
       "id": "show_rating",
       "default": false,
-      "label": "t:sections.featured-collection.settings.show_rating.label",
-      "info": "t:sections.featured-collection.settings.show_rating.info"
+      "label": "t:sections.featured-workshop-collection.settings.show_rating.label",
+      "info": "t:sections.featured-workshop-collection.settings.show_rating.info"
     },
     {
       "type": "checkbox",
       "id": "enable_quick_add",
       "default": false,
-      "label": "t:sections.featured-collection.settings.enable_quick_buy.label"
+      "label": "t:sections.featured-workshop-collection.settings.enable_quick_buy.label"
     },
     {
       "type": "header",
-      "content": "t:sections.featured-collection.settings.header_mobile.content"
+      "content": "t:sections.featured-workshop-collection.settings.header_mobile.content"
     },
     {
       "type": "select",
       "id": "columns_mobile",
       "default": "2",
-      "label": "t:sections.featured-collection.settings.columns_mobile.label",
+      "label": "t:sections.featured-workshop-collection.settings.columns_mobile.label",
       "options": [
         {
           "value": "1",
-          "label": "t:sections.featured-collection.settings.columns_mobile.options__1.label"
+          "label": "t:sections.featured-workshop-collection.settings.columns_mobile.options__1.label"
         },
         {
           "value": "2",
-          "label": "t:sections.featured-collection.settings.columns_mobile.options__2.label"
+          "label": "t:sections.featured-workshop-collection.settings.columns_mobile.options__2.label"
         }
       ]
     },
@@ -418,7 +418,7 @@
       "type": "checkbox",
       "id": "swipe_on_mobile",
       "default": false,
-      "label": "t:sections.featured-collection.settings.swipe_on_mobile.label"
+      "label": "t:sections.featured-workshop-collection.settings.swipe_on_mobile.label"
     },
     {
       "type": "header",
@@ -447,7 +447,7 @@
   ],
   "presets": [
     {
-      "name": "t:sections.featured-collection.presets.name"
+      "name": "t:sections.featured-workshop-collection.presets.name"
     }
   ]
 }
