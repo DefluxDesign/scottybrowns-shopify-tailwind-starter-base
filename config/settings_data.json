@@ -2,6 +2,7 @@
   "current": {
     "logo": "shopify:\/\/shop_images\/scotty-browns-logo_ec101550-1fec-40f0-81cd-ab1d5ec0acf0.svg",
     "logo_width": 220,
+    "favicon": "shopify:\/\/shop_images\/sb-favicon.svg",
     "type_header_font": "oswald_n4",
     "heading_scale": 105,
     "type_body_font": "basic_commercial_soft_rounded_n4",
