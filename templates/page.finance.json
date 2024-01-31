@@ -1,0 +1,65 @@
+{
+  "sections": {
+    "image_banner_xrfd7e": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_97tKVt": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "BIKE WORKSHOP",
+            "heading_size": "h1"
+          }
+        },
+        "text_peWDU8": {
+          "type": "text",
+          "settings": {
+            "text": "Passion and service are the foundation of our ethos. ",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_Y3pV8P": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "CALL TO INQUIRE",
+            "button_link_1": "tel:033663773",
+            "button_style_secondary_1": false,
+            "button_label_2": "FLICK US AN EMAIL",
+            "button_link_2": "mailto:service@scottybrowns.com",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_97tKVt",
+        "text_peWDU8",
+        "buttons_Y3pV8P"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Workshop_Bike_2_194ab828-8817-48fc-b583-d486e95c1986.jpg",
+        "image_2": "shopify:\/\/shop_images\/Simon_Workshop.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "image_banner_xrfd7e",
+    "main"
+  ]
+}
