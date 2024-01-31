@@ -62,6 +62,7 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=q6fJzZYrPes&t=681s",
+        "cover_image": "shopify:\/\/shop_images\/maxresdefault.jpg",
         "description": "",
         "full_width": true,
         "color_scheme": "scheme-3",
