@@ -515,7 +515,7 @@ div#instagram {
   font-size: 2.4rem;
 }
 
-#Banner-template--16529995432118__image_banner_xrfd7e:after {
+#Banner-template--16529995432118__image_banner_xrfd7e .banner__content:after {
   content: "";
   background: url(/cdn/shop/files/workshop-logo-sb.svg?v=1706517929)
     center/contain no-repeat !important;
