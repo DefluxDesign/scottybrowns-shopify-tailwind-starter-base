@@ -515,7 +515,7 @@ div#instagram {
   font-size: 2.4rem;
 }
 
-.banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient:after {
+.banner__box:after {
   content: "";
   background-size: contain;
   background: url(/cdn/shop/files/workshop-logo-sb.svg?v=1706517929) !important;
