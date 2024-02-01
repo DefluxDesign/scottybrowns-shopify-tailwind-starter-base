@@ -525,7 +525,10 @@ div#instagram {
   top: 0px;
   height: 330px;
   opacity: 1 !important;
-  @media screen and (max-width: 470px) {
+}
+
+@media screen and (max-width: 470px) {
+  #Banner-template--16529995432118__image_banner_xrfd7e .banner__content:after {
     top: -303px;
   }
 }
