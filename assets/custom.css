@@ -524,6 +524,7 @@ div#instagram {
   z-index: 2;
   top: 0px;
   height: 330px;
+  opacity: 1 !important;
 }
 
 @media screen and (max-width: 470px) {
