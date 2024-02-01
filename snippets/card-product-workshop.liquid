@@ -126,9 +126,10 @@
                 class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"
               >
                 {{- 'products.product.on_sale' | t -}}
-{{ card_product.description | escape }}
+
               </span>
             {%- endif -%}
+{{ card_product.description | escape }}
           </div>
         </div>
       </div>
