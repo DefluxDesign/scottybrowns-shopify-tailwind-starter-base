@@ -516,7 +516,7 @@ div#instagram {
 }
 
 div#Banner-template--16481235828918__image_banner_xrfd7e {
-  .banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient:after {
+  .banner--medium.banner--desktop-transparent .banner__box:after {
     content: "";
     background-size: contain;
     background: url(/cdn/shop/files/workshop-logo-sb.svg?v=1706517929);
