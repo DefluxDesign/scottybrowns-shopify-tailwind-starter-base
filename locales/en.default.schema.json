@@ -713,7 +713,7 @@
       }
     },
     "featured-workshop-collection": {
-      "name": "Featured collection",
+      "name": "Featured Workshop collection",
       "settings": {
         "title": {
           "label": "Heading"
