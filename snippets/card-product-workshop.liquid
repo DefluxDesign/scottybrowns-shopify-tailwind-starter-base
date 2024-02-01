@@ -101,7 +101,7 @@
             </div>
           </div>
         {%- endif -%}
-        <div class="card__contenterer">
+        <div class="card__contenter">
           <div class="card__information">
             <h3
               class="card__heading"
@@ -126,6 +126,7 @@
                 class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"
               >
                 {{- 'products.product.on_sale' | t -}}
+{{ card_product.description | escape }}
               </span>
             {%- endif -%}
           </div>
