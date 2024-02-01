@@ -519,7 +519,7 @@ div#Banner-template--16529995432118__image_banner_xrfd7e {
   .banner__box:after {
     content: "";
     background-size: contain;
-    background: url(/cdn/shop/files/workshop-logo-sb.svg?v=1706517929);
+    background: url(/cdn/shop/files/workshop-logo-sb.svg?v=1706517929) !important;
     background-repeat: no-repeat;
     background-position-x: center;
     width: 100%;
