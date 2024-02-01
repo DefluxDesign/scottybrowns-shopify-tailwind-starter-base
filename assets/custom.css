@@ -530,7 +530,7 @@ div#Banner-template--16529995432118__image_banner_xrfd7e {
   }
 
   @media screen and (max-width: 470px) {
-    .banner__content.banner__content--middle-center.page-width:after {
+    .banner--medium.banner--desktop-transparent .banner__box:after {
       top: -303px;
     }
   }
