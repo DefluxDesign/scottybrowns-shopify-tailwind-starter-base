@@ -516,6 +516,7 @@ div#instagram {
 }
 
 div#Banner-template--16529995432118__image_banner_xrfd7e {
+  display: none;
   .banner--desktop-transparent .banner__box:after {
     content: "";
     background-size: contain;
