@@ -537,7 +537,7 @@ div#Banner-template--16529995432118__image_banner_xrfd7e {
 
   .banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient {
     margin-top: 195px;
-    @media screen and (max-width: 470px) {
+    @media screen and (max-width: 480px) {
       margin-top: 0px;
     }
   }
