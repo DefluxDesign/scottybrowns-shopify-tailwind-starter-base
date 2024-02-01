@@ -56,10 +56,39 @@
         "padding_top": 40,
         "padding_bottom": 40
       }
+    },
+    "workshop_servicing_featured_collection_mLnfCh": {
+      "type": "workshop-servicing-featured-collection",
+      "settings": {
+        "title": "SERVICING PRICING",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "online-workshop-servicing",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-3",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 56
+      }
     }
   },
   "order": [
     "image_banner_xrfd7e",
-    "main"
+    "main",
+    "workshop_servicing_featured_collection_mLnfCh"
   ]
 }
