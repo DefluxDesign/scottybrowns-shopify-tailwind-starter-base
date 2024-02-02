@@ -99,6 +99,17 @@
             "html_content": ""
           }
         },
+        "column_GYK9zp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-tickle-up.svg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "html_content": ""
+          }
+        },
         "column_CCCWde": {
           "type": "column",
           "settings": {
@@ -122,6 +133,7 @@
       },
       "block_order": [
         "column_QXHHzQ",
+        "column_GYK9zp",
         "column_CCCWde",
         "column_83UHUf"
       ],
