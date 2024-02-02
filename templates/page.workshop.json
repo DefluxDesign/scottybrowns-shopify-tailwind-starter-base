@@ -89,16 +89,6 @@
     "multicolumn_tcUWpy": {
       "type": "multicolumn",
       "blocks": {
-        "column_QXHHzQ": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": "",
-            "html_content": ""
-          }
-        },
         "column_GYK9zp": {
           "type": "column",
           "settings": {
@@ -110,21 +100,23 @@
             "html_content": ""
           }
         },
-        "column_CCCWde": {
+        "column_QXHHzQ": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/ready-to-roll.svg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": "",
             "html_content": ""
           }
         },
-        "column_83UHUf": {
+        "column_CCCWde": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/bells-and-whistles.svg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": "",
             "html_content": ""
@@ -132,24 +124,23 @@
         }
       },
       "block_order": [
-        "column_QXHHzQ",
         "column_GYK9zp",
-        "column_CCCWde",
-        "column_83UHUf"
+        "column_QXHHzQ",
+        "column_CCCWde"
       ],
       "settings": {
         "title": "SERVICE PACKAGES",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "CALL FOR PRICING",
         "button_link": "tel:3663773",
         "color_scheme": "scheme-3",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
