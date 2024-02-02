@@ -94,7 +94,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/the-tickle-up.svg",
             "title": "",
-            "text": "",
+            "text": "<p>A tune up and inspection to keep your rig tidy, clean, safe and secure.<\/p>",
             "link_label": "",
             "link": "",
             "html_content": ""
@@ -105,7 +105,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/ready-to-roll.svg",
             "title": "",
-            "text": "",
+            "text": "<p>A <\/p>",
             "link_label": "",
             "link": "",
             "html_content": ""
@@ -131,10 +131,10 @@
       "settings": {
         "title": "SERVICE PACKAGES",
         "heading_size": "h2",
-        "image_width": "half",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "CALL FOR PRICING",
         "button_link": "tel:3663773",
