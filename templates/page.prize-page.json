@@ -41,6 +41,7 @@
       "blocks": {
         "forms_inline_JqdWfm": {
           "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "disabled": true,
           "settings": {
             "form_id": "61577",
             "text_color": "#202020",
