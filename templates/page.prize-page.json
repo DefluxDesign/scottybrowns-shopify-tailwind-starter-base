@@ -50,8 +50,8 @@
             "errors_color": "#E02229",
             "text_alignment": "left",
             "form_alignment": "center",
-            "padding_top": 14,
-            "padding_bottom": 14,
+            "padding_top": 28,
+            "padding_bottom": 29,
             "padding_right": 0,
             "padding_left": 0
           }
