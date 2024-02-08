@@ -48,7 +48,7 @@
             "button_label_color": "#FFFFFF",
             "links_color": "#1878B9",
             "errors_color": "#E02229",
-            "text_alignment": "left",
+            "text_alignment": "center",
             "form_alignment": "center",
             "padding_top": 28,
             "padding_bottom": 29,
