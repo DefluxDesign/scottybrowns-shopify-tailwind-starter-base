@@ -27,6 +27,7 @@
 table {
   background-color: #2cabff38;
   width: 100%;
+  max-width: 420px;
   text-align: left;
   border-collapse: collapse;
   border-radius: 10px;
