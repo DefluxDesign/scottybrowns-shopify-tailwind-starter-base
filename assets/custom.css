@@ -24,6 +24,18 @@
   width: 8px;
 }
 
+table {
+  background-color: #2cabff;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+table. td,
+table. th {
+  padding: 10px;
+}
+
 /* Announcement Bar bk */
 #shopify-section-sections--16481235370166__announcement-bar {
   background-image: url(/cdn/shop/files/sb-announcement-bar-bk-pink.svg?v=1706132697);
