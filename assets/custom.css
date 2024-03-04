@@ -38,6 +38,7 @@ table. td,
 table. th {
   padding: 10px;
   border: none;
+  border-collapse: collapse;
 }
 
 /* Announcement Bar bk */
