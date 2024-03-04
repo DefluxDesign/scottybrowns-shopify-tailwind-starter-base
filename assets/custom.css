@@ -25,10 +25,12 @@
 }
 
 table {
-  background-color: #2cabff;
+  background-color: #2cabff38;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
+  border-radius: 10px;
+  margin: 0 auto;
 }
 
 table. td,
