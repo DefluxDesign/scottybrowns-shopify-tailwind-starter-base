@@ -30,6 +30,7 @@ table {
   max-width: 420px;
   text-align: left;
   border-collapse: collapse;
+  border: none;
   border-radius: 5px;
   border: none;
 }
