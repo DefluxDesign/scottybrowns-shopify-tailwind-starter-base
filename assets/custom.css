@@ -31,11 +31,12 @@ table {
   text-align: left;
   border-collapse: collapse;
   border-radius: 10px;
+  border: none;
   margin: 0 auto;
 }
 
-table. td,
-table. th {
+td,
+th {
   padding: 10px;
   border: none;
   border-collapse: collapse;
