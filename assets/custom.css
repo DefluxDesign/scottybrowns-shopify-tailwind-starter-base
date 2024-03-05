@@ -245,6 +245,11 @@ ul {
 }
 
 /* Product - Collections - 2ndpart */
+
+.price__regular .price-item--regular {
+  font-size: 3rem;
+}
+
 .page-title-banner,
 .collection-hero__title {
   position: sticky;
