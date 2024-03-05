@@ -245,6 +245,11 @@ ul {
 }
 
 /* Product - Collections - 2ndpart */
+
+.border-left-color {
+  border: none;
+}
+
 .product__info-wrapper.grid__item {
   padding: 2rem;
 }
