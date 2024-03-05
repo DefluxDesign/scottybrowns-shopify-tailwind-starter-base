@@ -246,6 +246,7 @@ ul {
 
 /* Product - Collections - 2ndpart */
 .product__info-wrapper {
+  background: linear-gradient(45deg, #e4e4e4, transparent);
   .price__regular .price-item--regular {
     font-size: 3rem;
   }
