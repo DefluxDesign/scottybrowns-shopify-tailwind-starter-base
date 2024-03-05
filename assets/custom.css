@@ -250,6 +250,7 @@ ul {
   .price__regular .price-item--regular {
     font-size: 3rem;
   }
+  border-radius: 2rem;
 }
 
 .page-title-banner,
