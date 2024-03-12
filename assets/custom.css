@@ -279,12 +279,18 @@ ul {
   }
 }
 
-.accordion .summary__title {
-  color: #3897f0;
-}
-
-.accordion em {
-  font-size: 1.1rem;
+.accordion {
+  h4 {
+    font-size: 2rem;
+    padding: 2rem 0;
+    color: #01a9ff;
+  }
+  .summary__title {
+    color: #3897f0;
+  }
+  em {
+    font-size: 1.1rem;
+  }
 }
 
 .product__info-wrapper {
