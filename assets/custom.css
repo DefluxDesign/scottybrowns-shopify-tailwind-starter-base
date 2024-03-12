@@ -263,13 +263,6 @@ ul {
   padding: 2rem;
 }
 
-.product__description {
-  table {
-    margin-top: 2rem;
-    margin-left: 2rem;
-  }
-}
-
 @media screen and (min-width: 750px) {
   .product__info-container {
     margin-left: 2rem;
@@ -283,6 +276,7 @@ ul {
   h4 {
     font-size: 1.75rem;
     padding: 1rem 0;
+    margin-bottom: 1rem;
     color: #01a9ff;
     width: 100%;
     display: block;
