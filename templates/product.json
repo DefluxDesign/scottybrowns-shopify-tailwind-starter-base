@@ -89,7 +89,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "RETURNS",
-            "icon": "ruler",
+            "icon": "return",
             "content": "",
             "page": ""
           }
