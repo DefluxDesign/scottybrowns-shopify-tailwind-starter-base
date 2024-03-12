@@ -109,19 +109,11 @@
             "heading": "KEEP IT SOCIAL",
             "subtext": "<p>Insta<br\/><a href=\"https:\/\/www.instagram.com\/scottybrowns\/\" title=\"https:\/\/www.instagram.com\/scottybrowns\/\">@scottybrowns<\/a><br\/><br\/>Facebook<br\/><a href=\"https:\/\/www.facebook.com\/scottybrownsnz\/\" target=\"_blank\" title=\"https:\/\/www.facebook.com\/scottybrownsnz\/\">@scottybrownsnz<br\/><\/a><\/p>"
           }
-        },
-        "link_list_DMThYE": {
-          "type": "link_list",
-          "settings": {
-            "heading": "HELP!",
-            "menu": "main-menu"
-          }
         }
       },
       "block_order": [
         "footer-0",
-        "text_VgrzBj",
-        "link_list_DMThYE"
+        "text_VgrzBj"
       ],
       "settings": {
         "color_scheme": "scheme-3",
