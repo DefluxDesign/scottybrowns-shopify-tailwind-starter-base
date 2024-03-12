@@ -79,7 +79,7 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "SHIPPING",
+            "heading": "SHIPPING NEW ZEALAND",
             "icon": "truck",
             "content": "",
             "page": "shipping-rates-nz"
