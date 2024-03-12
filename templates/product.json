@@ -97,10 +97,10 @@
           "type": "collapsible_tab",
           "disabled": true,
           "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
+            "heading": "SHIPPING AUSTRALIA - INTERNATIONAL",
+            "icon": "truck",
             "content": "",
-            "page": ""
+            "page": "shipping-international"
           }
         },
         "share": {
