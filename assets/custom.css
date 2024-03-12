@@ -275,7 +275,7 @@ ul {
     margin-left: 2rem;
   }
   .product--right .product__info-wrapper {
-    padding: 0 2rem 0 0;
+    padding: 0 2rem 0 0 !important;
   }
 }
 
