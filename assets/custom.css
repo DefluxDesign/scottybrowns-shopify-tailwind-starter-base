@@ -264,7 +264,7 @@ ul {
 }
 
 .product__description {
-  h4 {
+  &h4 {
     color: #01a9ff;
     width: 100%;
     display: block;
