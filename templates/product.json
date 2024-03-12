@@ -78,10 +78,19 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "BULK ITEMS 10kg+",
+            "heading": "BULK ITEMS 10kg+ NEW ZEALAND",
             "icon": "none",
             "content": "",
             "page": "bulky-items-10kg"
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "SHIPPING AUSTRALIA - INTERNATIONAL",
+            "icon": "truck",
+            "content": "",
+            "page": "shipping-international"
           }
         },
         "collapsible-row-2": {
@@ -91,16 +100,6 @@
             "icon": "return",
             "content": "",
             "page": "returns"
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "SHIPPING AUSTRALIA - INTERNATIONAL",
-            "icon": "truck",
-            "content": "",
-            "page": "shipping-international"
           }
         },
         "share": {
@@ -123,8 +122,8 @@
         "description",
         "collapsible-row-1",
         "collapsible-row-0",
-        "collapsible-row-2",
         "collapsible-row-3",
+        "collapsible-row-2",
         "share"
       ],
       "settings": {
