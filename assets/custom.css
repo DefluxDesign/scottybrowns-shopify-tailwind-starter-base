@@ -280,6 +280,10 @@ ul {
   color: #3897f0;
 }
 
+.accordion em {
+  font-size: 0.9rem;
+}
+
 .product__info-wrapper {
   background: linear-gradient(45deg, #e4e4e4, transparent);
   padding: 2rem;
