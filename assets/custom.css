@@ -263,13 +263,11 @@ ul {
   padding: 2rem;
 }
 
-.product__description {
-  &h4 {
-    color: #01a9ff;
-    width: 100%;
-    display: block;
-    border-bottom: 1px dashed #ccc;
-  }
+.product__description h4 {
+  color: #01a9ff;
+  width: 100%;
+  display: block;
+  border-bottom: 1px dashed #ccc;
 }
 
 @media screen and (min-width: 750px) {
