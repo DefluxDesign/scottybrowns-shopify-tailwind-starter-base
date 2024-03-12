@@ -48,7 +48,7 @@ th {
   padding: 10px;
   border: none !important;
   border-collapse: collapse;
-  border-width: 0;
+  border: 1px solid #b8d6ee !important;
 }
 
 /* Announcement Bar bk */
