@@ -284,6 +284,9 @@ ul {
     font-size: 1.75rem;
     padding: 2rem 0;
     color: #01a9ff;
+    width: 100%;
+    display: block;
+    border-bottom: 1px dashed #ccc;
   }
   .summary__title {
     color: #3897f0;
