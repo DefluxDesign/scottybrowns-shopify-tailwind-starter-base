@@ -84,6 +84,15 @@
             "page": "bulky-items-10kg"
           }
         },
+        "collapsible_tab_VRPPtb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "CLICK & COLLECT",
+            "icon": "check_mark",
+            "content": "",
+            "page": "click-collect"
+          }
+        },
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
@@ -107,15 +116,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "collapsible_tab_VRPPtb": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "CLICK & COLLECT",
-            "icon": "check_mark",
-            "content": "",
-            "page": "click-collect"
-          }
         }
       },
       "block_order": [
@@ -131,10 +131,10 @@
         "description",
         "collapsible-row-1",
         "collapsible-row-0",
+        "collapsible_tab_VRPPtb",
         "collapsible-row-3",
         "collapsible-row-2",
-        "share",
-        "collapsible_tab_VRPPtb"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
