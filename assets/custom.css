@@ -268,6 +268,10 @@ ul {
   }
 }
 
+@media screen and (min-width: 750px) .product__info-container {
+  margin-left: 2rem;
+}
+
 .product__info-wrapper {
   background: linear-gradient(45deg, #e4e4e4, transparent);
   padding: 2rem;
