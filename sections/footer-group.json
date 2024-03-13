@@ -2,6 +2,15 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "custom_liquid_XqdGyz": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p>All prices are shown in NZD & inclusive of GST.<\/p>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "newsletter_Y84w9h": {
       "type": "newsletter",
       "blocks": {
@@ -131,6 +140,7 @@
     }
   },
   "order": [
+    "custom_liquid_XqdGyz",
     "newsletter_Y84w9h",
     "multicolumn_aLjFrD",
     "footer"
