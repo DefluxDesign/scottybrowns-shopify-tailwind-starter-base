@@ -21,6 +21,12 @@
           "settings": {
           }
         },
+        "custom_liquid_xD8D4t": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"help-me\">\n<h3>Can't see your size, colour, thing?<\/h3>\n<h4>We could have it or get  it.WE KNOW PEOPLE.<\/h4>\n<a href=\"tel:+6433663773\" class=\"button button--primary\" tabindex=\"-1\">CALL US<\/a>\n\n<a href=\"mailto:scotty@scottybrowns.com\" class=\"button button--primary\" tabindex=\"-1\">EMAIL<\/a>\n<\/div>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -35,12 +41,6 @@
             "text_style": "body",
             "inventory_threshold": 2,
             "show_inventory_quantity": true
-          }
-        },
-        "custom_liquid_xD8D4t": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"help-me\">\n<h3>Can't see your size, colour, thing?<\/h3>\n<h4>We could have it or get  it.WE KNOW PEOPLE.<\/h4>\n<a href=\"tel:+6433663773\" class=\"button button--primary\" tabindex=\"-1\">CALL US<\/a>\n\n<a href=\"mailto:scotty@scottybrowns.com\" class=\"button button--primary\" tabindex=\"-1\">EMAIL<\/a>\n<\/div>"
           }
         },
         "quantity_selector": {
@@ -122,9 +122,9 @@
         "title",
         "caption",
         "price",
+        "custom_liquid_xD8D4t",
         "variant_picker",
         "inventory_Acbe84",
-        "custom_liquid_xD8D4t",
         "quantity_selector",
         "buy_buttons",
         "custom_liquid_cmt8Xe",
