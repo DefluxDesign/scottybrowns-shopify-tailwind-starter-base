@@ -626,3 +626,13 @@ div#instagram {
     margin-top: 0px;
   }
 }
+
+details#Details-filter\.p\.vendor-template--16725366309046__product-grid,
+details#Details-filter\.p\.tag-template--16725366309046__product-grid {
+  display: none;
+}
+
+/* Trek Mega Deal */
+
+#shopify-section-template--16481235697846__featured_collection_QQfycP {
+}
