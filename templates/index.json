@@ -79,7 +79,7 @@
       "settings": {
         "title": "THE TREK RAIL, EBIKE MEGA DEAL....",
         "heading_size": "h1",
-        "description": "<p><strong>Don't miss out on this exclusive offer to Scotty Browns. We need 50 pre sold and then everyones wins!..<\/strong><\/p>",
+        "description": "<p><strong>Don't miss out on this exclusive offer to Scotty Browns. We need 50 pre sold and then everyones wins!..<br\/><br\/><\/strong><a href=\"\/collections\/trek-rail-ebike-big-deal\" title=\"Trek Rail - Ebike  - Big Deal!\"><strong>MORE INFO HERE -&gt;<\/strong><\/a><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "trek-rail-ebike-big-deal",
@@ -97,7 +97,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
