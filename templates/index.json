@@ -3,6 +3,25 @@
     "slideshow_mfJYJV": {
       "type": "slideshow",
       "blocks": {
+        "slide_Fydk39": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rail-trek-fortunate-50_dc6d5e4a-e818-4367-9dbf-3d78a4a67815.webp",
+            "heading": "A SCOTTY BROWN EXCLUSIVE",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "E BIKE MEGA DEAL ->",
+            "link": "shopify:\/\/collections\/trek-rail-ebike-big-deal",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "right"
+          }
+        },
         "slide_KPePpA": {
           "type": "slide",
           "settings": {
@@ -56,31 +75,13 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_Fydk39": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/trek-sb-mega-deal.webp",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "A SCOTTY BROWN EXCLUSIVE",
-            "button_label": "E BIKE MEGA DEAL ->",
-            "link": "shopify:\/\/collections\/trek-rail-ebike-big-deal",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "slide_Fydk39",
         "slide_KPePpA",
         "slide_GBhGBn",
-        "slide_GBDRwG",
-        "slide_Fydk39"
+        "slide_GBDRwG"
       ],
       "settings": {
         "layout": "full_bleed",
