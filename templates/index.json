@@ -42,6 +42,7 @@
         },
         "slide_GBhGBn": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/SCOTTY-BROWNs-entrance.jpg",
             "heading": "MAKE AN ENTRANCE",
