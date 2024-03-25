@@ -634,5 +634,8 @@ details#Details-filter\.p\.tag-template--16725366309046__product-grid {
 
 /* Trek Mega Deal */
 
-#shopify-section-template--16481235697846__featured_collection_QQfycP {
+.Trek.Rail {
+  div#Banner-template--16725366309046__image_banner_YFkbe3 {
+    grid-column: 1 / 3;
+  }
 }
