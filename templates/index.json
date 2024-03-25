@@ -56,12 +56,31 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_Fydk39": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/trek-sb-mega-deal.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "E BIKE MEGA DEAL",
+            "link": "shopify:\/\/collections\/trek-rail-ebike-big-deal",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_KPePpA",
         "slide_GBhGBn",
-        "slide_GBDRwG"
+        "slide_GBDRwG",
+        "slide_Fydk39"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -76,6 +95,7 @@
     },
     "featured_collection_QQfycP": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "THE TREK RAIL, EBIKE MEGA DEAL....",
         "heading_size": "h1",
