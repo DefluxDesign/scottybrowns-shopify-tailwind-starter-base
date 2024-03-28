@@ -116,7 +116,7 @@ subheader {
     border: 1px solid #ccdb2d69;
   }
 }
-@media screen and (max-width: 1366) {
+@media screen and (max-width: 1366px) {
   subheader {
     .substripes {
       width: 46%;
