@@ -88,9 +88,6 @@ sticky-header.header-wrapper {
 }
 
 subheader {
-  .substripes {
-    width: 74%;
-  }
   width: 100%;
   height: fit-content;
   grid-template-columns: 1fr 40px 40px 40px;
@@ -114,13 +111,6 @@ subheader {
 
   .header__icon:nth-child(3n) {
     border: 1px solid #ccdb2d69;
-  }
-}
-@media screen and (max-width: 1366px) {
-  subheader {
-    .substripes {
-      width: 46%;
-    }
   }
 }
 
