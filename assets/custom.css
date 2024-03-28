@@ -654,5 +654,6 @@ details#Details-filter\.p\.tag-template--16725366309046__product-grid {
 }
 .button-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(186px, 1fr));
+  grid-gap: 1rem;
 }
