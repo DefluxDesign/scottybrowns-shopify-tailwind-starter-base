@@ -43,6 +43,15 @@
             "custom_liquid": "<div class=\"help-me\">\n<h3>PRE-ORDER - I WANT TO BE ONE OF THE FORTUNATE 50!<\/h3>\n<h4>GET IN TOUCH AND LET'S GET YOU AND YOUR MATES HOOKED UP<\/h4>\n<a href=\"tel:+6433663773\" class=\"button button--primary\" tabindex=\"-1\">03 366 3773<\/a>\n\n<a href=\"mailto:scotty@scottybrowns.com?subject=Trek%20Rail%20E-bike%20Mega%20Deal&body=Hey%20Scotty%20B,%0D%0A%0D%0AI'm%20reaching%20out%20to%20express%20my%20keen%20interest%20in%20being%20among%20the%20fortunate%2050%20to%20secure%20an%20exclusive%20deal%20on%20a%20Trek%20Rail%20E-Bike.%20Specifically,%20I'm%20eyeing%20the%20(model%20here),%20and%20I%20would%20want%20it%20in%20size%20(S,%20M,%20L,%20XL).\n\" class=\"button button--primary\" tabindex=\"-1\">scotty@scottybrowns.com<\/a>\n<\/div>"
           }
         },
+        "collapsible_tab_7GBYK8": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "WHAT'S THE DRILL WITH THIS PRE-ORDER?",
+            "icon": "question_mark",
+            "content": "<ol><li>Choose from one of the Trek Rail 5, 7, 9 or 9.8 T-Type.<br\/><\/li><li>Please call or email (buttons above) to express your interest.<br\/><\/li><li>We'll double check your size and get the order in with Trek.<br\/><\/li><li>With your model \/ size confirmed, we'll ask you for a 10% deposit.<br\/><\/li><li>We will get the bike sent from Trek NZ and built up fast so you can get out on the trails. Be part of the fortunate 50 and tell your mates, this deal won't be beaten.<\/li><\/ol>",
+            "page": ""
+          }
+        },
         "custom_liquid_cmt8Xe": {
           "type": "custom_liquid",
           "disabled": true,
@@ -94,6 +103,7 @@
         "caption",
         "price",
         "custom_liquid_xD8D4t",
+        "collapsible_tab_7GBYK8",
         "custom_liquid_cmt8Xe",
         "description",
         "collapsible-row-1",
