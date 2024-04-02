@@ -268,8 +268,8 @@ ul {
   font-size: 2rem;
 }
 
-.price__sale {
-  font-size: 3rem;
+.product .price__sale {
+  font-size: 2.5rem;
 }
 
 @media screen and (min-width: 750px) {
