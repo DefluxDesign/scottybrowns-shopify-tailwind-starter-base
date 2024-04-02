@@ -628,6 +628,11 @@ details#Details-filter\.p\.tag-template--16725366309046__product-grid {
 }
 
 /* Trek Mega Deal */
+.videoWrapper.trek {
+  padding: 2re;
+  width: 100%;
+  border-radius: 1rem;
+}
 
 .Trek.Rail {
   #shopify-section-template--16725366309046__image_banner_YFkbe3 {
