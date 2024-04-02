@@ -633,8 +633,8 @@ details#Details-filter\.p\.tag-template--16725366309046__product-grid {
 
 /* Trek Mega Deal */
 .videoWrapper.trek {
-  padding: 2re;
-  width: 100%;
+  margin: 0 auto;
+  width: calc (100% - 4rem);
   border-radius: 1rem;
 }
 
