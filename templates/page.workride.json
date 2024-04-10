@@ -82,8 +82,8 @@
         "button_3MBKpi": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "SAVINGS ESTIMATOR",
+            "button_link": "https:\/\/www.workride.co.nz\/savings-estimator\" target=\"_blank",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
