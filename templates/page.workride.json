@@ -1,5 +1,19 @@
 {
   "sections": {
+    "video_rXT8jd": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/uHj3wWgfGsU",
+        "description": "Workride",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_xrfd7e": {
       "type": "image-banner",
       "blocks": {
@@ -56,24 +70,45 @@
         "padding_bottom": 40
       }
     },
-    "video_rXT8jd": {
-      "type": "video",
+    "rich_text_yBX6Km": {
+      "type": "rich-text",
+      "blocks": {
+        "text_EidWBF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Who doesn't love a tax break, a new bike and great service?<\/strong>Check out the new Workride free benefit scheme. Employees can benefit from a 32-63% cost offset on the sale price of a new bike, e-bike or scooter using tax exemptions.<br\/><br\/>Now available at Scotty Browns, talk to the team to find out more.<\/p>"
+          }
+        },
+        "button_3MBKpi": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_EidWBF",
+        "button_3MBKpi"
+      ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/youtu.be\/uHj3wWgfGsU",
-        "description": "Workride",
-        "full_width": true,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
+    "video_rXT8jd",
     "image_banner_xrfd7e",
     "main",
-    "video_rXT8jd"
+    "rich_text_yBX6Km"
   ]
 }
