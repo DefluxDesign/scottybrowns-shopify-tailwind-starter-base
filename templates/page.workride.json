@@ -1,26 +1,12 @@
 {
   "sections": {
-    "video_rXT8jd": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/youtu.be\/uHj3wWgfGsU",
-        "description": "Workride",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_xrfd7e": {
       "type": "image-banner",
       "blocks": {
         "heading_97tKVt": {
           "type": "heading",
           "settings": {
-            "heading": "ride-to-work.  choose any ride.  32-63% offset.",
+            "heading": "ride-to-work.  choose any ride.      32-63% offset.",
             "heading_size": "h0"
           }
         },
@@ -49,8 +35,8 @@
         "buttons_Y3pV8P"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Workshop_Bike_2_194ab828-8817-48fc-b583-d486e95c1986.jpg",
-        "image_2": "shopify:\/\/shop_images\/Simon_Workshop.jpg",
+        "image": "shopify:\/\/shop_images\/2022-trek-district-4-equipped-belt-drive-commuter-bike-0.jpg",
+        "image_2": "shopify:\/\/shop_images\/bike-bikes-hybrid-desktop-1600x640_2108723.png",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -61,6 +47,20 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "video_rXT8jd": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/uHj3wWgfGsU",
+        "description": "Workride",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "main": {
@@ -107,8 +107,8 @@
     }
   },
   "order": [
-    "video_rXT8jd",
     "image_banner_xrfd7e",
+    "video_rXT8jd",
     "main",
     "rich_text_yBX6Km"
   ]
