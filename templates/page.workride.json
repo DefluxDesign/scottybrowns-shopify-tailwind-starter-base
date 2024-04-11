@@ -1,5 +1,28 @@
 {
   "sections": {
+    "rich_text_J8XyWC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Vxj44J": {
+          "type": "heading",
+          "settings": {
+            "heading": "RIDE-TO-WORK. CHOOSE ANY RIDE. 32-63% OFFSET. NOW AVAILABLE @ SCOTTY BROWNS",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Vxj44J"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
     "video_rXT8jd": {
       "type": "video",
       "settings": {
@@ -105,36 +128,13 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "rich_text_J8XyWC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Vxj44J": {
-          "type": "heading",
-          "settings": {
-            "heading": "RIDE-TO-WORK. CHOOSE ANY RIDE. 32-63% OFFSET. NOW AVAILABLE @ SCOTTY BROWNS",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Vxj44J"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
+    "rich_text_J8XyWC",
     "video_rXT8jd",
     "image_banner_xrfd7e",
     "main",
-    "rich_text_yBX6Km",
-    "rich_text_J8XyWC"
+    "rich_text_yBX6Km"
   ]
 }
