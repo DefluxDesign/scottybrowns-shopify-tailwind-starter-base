@@ -34,7 +34,7 @@
         "description": "Workride",
         "full_width": false,
         "color_scheme": "scheme-3",
-        "padding_top": 0,
+        "padding_top": 32,
         "padding_bottom": 0
       }
     },
