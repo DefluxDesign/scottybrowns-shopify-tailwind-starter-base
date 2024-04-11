@@ -37,8 +37,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/2022-trek-district-4-equipped-belt-drive-commuter-bike-0.jpg",
         "image_2": "shopify:\/\/shop_images\/bike-bikes-hybrid-desktop-1600x640_2108723.png",
-        "image_overlay_opacity": 30,
-        "image_height": "medium",
+        "image_overlay_opacity": 60,
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
