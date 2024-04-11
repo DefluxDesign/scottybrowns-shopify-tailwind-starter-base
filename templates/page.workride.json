@@ -38,55 +38,6 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_xrfd7e": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_97tKVt": {
-          "type": "heading",
-          "settings": {
-            "heading": "ride-to-work.  choose any ride.      32-63% offset.",
-            "heading_size": "h0"
-          }
-        },
-        "text_peWDU8": {
-          "type": "text",
-          "settings": {
-            "text": "NOW AVAILABLE @ SCOTTY BROWNS",
-            "text_style": "subtitle"
-          }
-        },
-        "buttons_Y3pV8P": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "SAVINGS ESTIMATOR",
-            "button_link_1": "https:\/\/www.workride.co.nz\/savings-estimator",
-            "button_style_secondary_1": false,
-            "button_label_2": "FLICK US AN EMAIL",
-            "button_link_2": "mailto:scotty@scottybrowns.com?subject=Workride&body=Heya%20Scotty%20Browns%2C%0A%0AI%20%2F%20we%20are%20very%20interested%20in%20the%20Workride%20...",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_97tKVt",
-        "text_peWDU8",
-        "buttons_Y3pV8P"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2022-trek-district-4-equipped-belt-drive-commuter-bike-0.jpg",
-        "image_2": "shopify:\/\/shop_images\/bike-bikes-hybrid-desktop-1600x640_2108723.png",
-        "image_overlay_opacity": 60,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "zoom-in",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -106,6 +57,7 @@
         },
         "button_3MBKpi": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "SAVINGS ESTIMATOR",
             "button_link": "https:\/\/www.workride.co.nz\/savings-estimator\" target=\"_blank",
@@ -128,13 +80,46 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "image_banner_xrfd7e": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_Y3pV8P": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SAVINGS ESTIMATOR",
+            "button_link_1": "https:\/\/www.workride.co.nz\/savings-estimator",
+            "button_style_secondary_1": false,
+            "button_label_2": "FLICK US AN EMAIL",
+            "button_link_2": "mailto:scotty@scottybrowns.com?subject=Workride&body=Heya%20Scotty%20Browns%2C%0A%0AI%20%2F%20we%20are%20very%20interested%20in%20the%20Workride%20...",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_Y3pV8P"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2022-trek-district-4-equipped-belt-drive-commuter-bike-0.jpg",
+        "image_2": "shopify:\/\/shop_images\/bike-bikes-hybrid-desktop-1600x640_2108723.png",
+        "image_overlay_opacity": 60,
+        "image_height": "small",
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "rich_text_J8XyWC",
     "video_rXT8jd",
-    "image_banner_xrfd7e",
     "main",
-    "rich_text_yBX6Km"
+    "rich_text_yBX6Km",
+    "image_banner_xrfd7e"
   ]
 }
