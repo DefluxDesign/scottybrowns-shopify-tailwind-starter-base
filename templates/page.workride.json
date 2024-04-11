@@ -1,5 +1,20 @@
 {
   "sections": {
+    "video_rXT8jd": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video_url": "https:\/\/youtu.be\/uHj3wWgfGsU",
+        "cover_image": "shopify:\/\/shop_images\/Screenshot_2024-04-11_at_14.23.22.png",
+        "description": "Workride",
+        "full_width": true,
+        "color_scheme": "scheme-4",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_xrfd7e": {
       "type": "image-banner",
       "blocks": {
@@ -49,21 +64,6 @@
         "show_text_below": true
       }
     },
-    "video_rXT8jd": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video_url": "https:\/\/youtu.be\/uHj3wWgfGsU",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2024-04-11_at_14.23.22.png",
-        "description": "Workride",
-        "full_width": true,
-        "color_scheme": "scheme-4",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -108,8 +108,8 @@
     }
   },
   "order": [
-    "image_banner_xrfd7e",
     "video_rXT8jd",
+    "image_banner_xrfd7e",
     "main",
     "rich_text_yBX6Km"
   ]
