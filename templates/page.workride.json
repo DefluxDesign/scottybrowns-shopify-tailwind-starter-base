@@ -26,8 +26,8 @@
     "video_rXT8jd": {
       "type": "video",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
+        "heading": "CHECK OUT THIS VID FOR FOR MORE INFO",
+        "heading_size": "h2",
         "enable_video_looping": true,
         "video_url": "https:\/\/youtu.be\/uHj3wWgfGsU",
         "cover_image": "shopify:\/\/shop_images\/Screenshot_2024-04-11_at_14.23.22.png",
