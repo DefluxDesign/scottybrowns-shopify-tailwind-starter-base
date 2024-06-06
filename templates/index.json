@@ -116,6 +116,7 @@
     },
     "featured_collection_QQfycP": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "THE TREK RAIL, EBIKE MEGA DEAL....",
         "heading_size": "h1",
