@@ -43,14 +43,14 @@
         "slide_GBDRwG": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/workshop_home_image_scotty_browns_bike_workshop.webp",
+            "image": "shopify:\/\/shop_images\/Workshop_Banner.jpg",
             "heading": "SB BIKE WORKSHOP",
             "heading_size": "h2",
             "subheading": "GIVE YOUR BIKE SOME LOVE",
             "button_label": "BOOK HERE",
             "link": "https:\/\/scottybrowns.com\/pages\/bike-workshop",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
+            "box_align": "bottom-right",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
