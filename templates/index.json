@@ -25,14 +25,14 @@
         "slide_NWrKY6": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rapha_Banner.jpg",
+            "image": "shopify:\/\/shop_images\/Rapha_Banner_7d303f9d-358e-44ce-8238-58db06c02706.jpg",
             "heading": "Rapha now available",
             "heading_size": "h2",
             "subheading": "We are excited to bring Rapha to the Emporium",
             "button_label": "Shop the Collection",
             "link": "shopify:\/\/collections\/rapha",
             "button_style_secondary": false,
-            "box_align": "middle-left",
+            "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
