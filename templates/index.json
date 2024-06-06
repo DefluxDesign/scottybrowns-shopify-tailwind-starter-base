@@ -22,6 +22,42 @@
             "text_alignment_mobile": "right"
           }
         },
+        "slide_NWrKY6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rapha_Banner.jpg",
+            "heading": "Rapha now available",
+            "heading_size": "h2",
+            "subheading": "We are excited to bring Rapha to the Emporium",
+            "button_label": "Shop the Collection",
+            "link": "shopify:\/\/collections\/rapha",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_GBDRwG": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/workshop_home_image_scotty_browns_bike_workshop.webp",
+            "heading": "SB BIKE WORKSHOP",
+            "heading_size": "h2",
+            "subheading": "GIVE YOUR BIKE SOME LOVE",
+            "button_label": "BOOK HERE",
+            "link": "https:\/\/scottybrowns.com\/pages\/bike-workshop",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_KPePpA": {
           "type": "slide",
           "settings": {
@@ -58,50 +94,14 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_GBDRwG": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/workshop_home_image_scotty_browns_bike_workshop.webp",
-            "heading": "SB BIKE WORKSHOP",
-            "heading_size": "h2",
-            "subheading": "GIVE YOUR BIKE SOME LOVE",
-            "button_label": "BOOK HERE",
-            "link": "https:\/\/scottybrowns.com\/pages\/bike-workshop",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-5",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_NWrKY6": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rapha_Banner.jpg",
-            "heading": "Rapha now available",
-            "heading_size": "h2",
-            "subheading": "We are excited to bring Rapha to the Emporium",
-            "button_label": "Shop the Collection",
-            "link": "shopify:\/\/collections\/rapha",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "slide_Fydk39",
-        "slide_KPePpA",
-        "slide_GBhGBn",
+        "slide_NWrKY6",
         "slide_GBDRwG",
-        "slide_NWrKY6"
+        "slide_KPePpA",
+        "slide_GBhGBn"
       ],
       "settings": {
         "layout": "full_bleed",
