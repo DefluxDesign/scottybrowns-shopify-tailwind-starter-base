@@ -32,7 +32,7 @@
             "button_label": "Shop the Collection",
             "link": "shopify:\/\/collections\/rapha",
             "button_style_secondary": false,
-            "box_align": "top-center",
+            "box_align": "bottom-right",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
