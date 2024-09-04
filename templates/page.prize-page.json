@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner_xrfd7e": {
@@ -15,6 +24,7 @@
       "block_order": [
         "heading_97tKVt"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/scotty-browns-le-race-prize-pack-email-sign-up-promo_1b586a07-0df4-4ea6-9822-f97ea138a285.webp",
         "image_overlay_opacity": 0,
@@ -42,12 +52,12 @@
         "forms_inline_JqdWfm": {
           "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
-            "form_id": "64340",
+            "form_id": "171641",
             "text_color": "#202020",
             "button_background_color": "#ff1291",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
             "text_alignment": "center",
             "form_alignment": "center",
             "padding_top": 28,
@@ -55,10 +65,28 @@
             "padding_right": 0,
             "padding_left": 0
           }
+        },
+        "forms_inline_LW4fUN": {
+          "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
         }
       },
       "block_order": [
-        "forms_inline_JqdWfm"
+        "forms_inline_JqdWfm",
+        "forms_inline_LW4fUN"
       ],
       "settings": {
         "include_margins": true
