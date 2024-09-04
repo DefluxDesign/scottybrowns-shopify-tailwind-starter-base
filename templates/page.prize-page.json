@@ -24,9 +24,8 @@
       "block_order": [
         "heading_97tKVt"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/scotty-browns-le-race-prize-pack-email-sign-up-promo_1b586a07-0df4-4ea6-9822-f97ea138a285.webp",
+        "image": "shopify:\/\/shop_images\/Sandstorm_pre-orders.webp",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
@@ -41,6 +40,7 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 40,
         "padding_bottom": 40
@@ -65,28 +65,10 @@
             "padding_right": 0,
             "padding_left": 0
           }
-        },
-        "forms_inline_LW4fUN": {
-          "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
-          "settings": {
-            "form_id": "",
-            "text_color": "#202020",
-            "button_background_color": "#202020",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
-            "text_alignment": "center",
-            "form_alignment": "center",
-            "padding_top": 0,
-            "padding_bottom": 0,
-            "padding_right": 0,
-            "padding_left": 0
-          }
         }
       },
       "block_order": [
-        "forms_inline_JqdWfm",
-        "forms_inline_LW4fUN"
+        "forms_inline_JqdWfm"
       ],
       "settings": {
         "include_margins": true
