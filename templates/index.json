@@ -1,27 +1,17 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow_mfJYJV": {
       "type": "slideshow",
       "blocks": {
-        "slide_Fydk39": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/rail-trek-fortunate-50_dc6d5e4a-e818-4367-9dbf-3d78a4a67815.webp",
-            "heading": "A SCOTTY BROWN EXCLUSIVE",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "E BIKE MEGA DEAL ->",
-            "link": "shopify:\/\/collections\/trek-rail-ebike-big-deal",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-5",
-            "text_alignment_mobile": "right"
-          }
-        },
         "slide_NWrKY6": {
           "type": "slide",
           "settings": {
@@ -94,14 +84,32 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_te4HMa": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Specialized-spring-sale-01.webp",
+            "heading": "SPECIALIZED SPRING SALE",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Start Looking",
+            "link": "shopify:\/\/collections\/specialized-spring-sale",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_Fydk39",
         "slide_NWrKY6",
         "slide_GBDRwG",
         "slide_KPePpA",
-        "slide_GBhGBn"
+        "slide_GBhGBn",
+        "slide_te4HMa"
       ],
       "settings": {
         "layout": "full_bleed",
