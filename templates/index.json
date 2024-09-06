@@ -12,6 +12,24 @@
     "slideshow_mfJYJV": {
       "type": "slideshow",
       "blocks": {
+        "slide_te4HMa": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Specialized-spring-sale-01.webp",
+            "heading": "SPECIALIZED SPRING SALE",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Start Looking",
+            "link": "shopify:\/\/collections\/specialized-spring-sale",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_NWrKY6": {
           "type": "slide",
           "settings": {
@@ -84,32 +102,14 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_te4HMa": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Specialized-spring-sale-01.webp",
-            "heading": "SPECIALIZED SPRING SALE",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Start Looking",
-            "link": "shopify:\/\/collections\/specialized-spring-sale",
-            "button_style_secondary": false,
-            "box_align": "bottom-right",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "slide_te4HMa",
         "slide_NWrKY6",
         "slide_GBDRwG",
         "slide_KPePpA",
-        "slide_GBhGBn",
-        "slide_te4HMa"
+        "slide_GBhGBn"
       ],
       "settings": {
         "layout": "full_bleed",
