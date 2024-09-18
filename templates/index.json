@@ -12,6 +12,24 @@
     "slideshow_mfJYJV": {
       "type": "slideshow",
       "blocks": {
+        "slide_KPePpA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sandstorm_pre-orders-mobile_c8c305f4-20a1-4b92-8004-5126c809a21c.webp",
+            "heading": "Sandstorm jersey",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "PRE-ORDER HERE",
+            "link": "https:\/\/scottybrowns.com\/pages\/limited-edition-sandstorm-jersey-preorders",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_te4HMa": {
           "type": "slide",
           "settings": {
@@ -66,24 +84,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_KPePpA": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sandstorm_pre-orders-mobile_c8c305f4-20a1-4b92-8004-5126c809a21c.webp",
-            "heading": "Sandstorm jersey",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "PRE-ORDER HERE",
-            "link": "https:\/\/scottybrowns.com\/pages\/limited-edition-sandstorm-jersey-preorders",
-            "button_style_secondary": false,
-            "box_align": "bottom-right",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-5",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_GBhGBn": {
           "type": "slide",
           "disabled": true,
@@ -105,10 +105,10 @@
         }
       },
       "block_order": [
+        "slide_KPePpA",
         "slide_te4HMa",
         "slide_NWrKY6",
         "slide_GBDRwG",
-        "slide_KPePpA",
         "slide_GBhGBn"
       ],
       "settings": {
