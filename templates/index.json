@@ -68,6 +68,7 @@
         },
         "slide_KPePpA": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Sandstorm_pre-orders-mobile_c8c305f4-20a1-4b92-8004-5126c809a21c.webp",
             "heading": "Sandstorm jersey",
