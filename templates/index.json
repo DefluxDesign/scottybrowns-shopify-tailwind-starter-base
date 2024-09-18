@@ -68,16 +68,15 @@
         },
         "slide_KPePpA": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sandstorm_pre-orders-banner.webp",
+            "image": "shopify:\/\/shop_images\/Sandstorm_pre-orders-banner-2_97ea5945-591d-4a3b-b228-8fb92b931b98.webp",
             "heading": "Sandstorm jersey",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "PRE-ORDER HERE",
             "link": "https:\/\/scottybrowns.com\/pages\/limited-edition-sandstorm-jersey-preorders",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
+            "box_align": "bottom-right",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
