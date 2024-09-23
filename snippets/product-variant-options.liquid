@@ -28,20 +28,42 @@
 {%- for value in option.values -%}
   {%- liquid
     assign option_disabled = true
-
+    assign variant_status = ''
+    assign status_class = ''
+        
     for option1_name in variants_option1_arr
       case option.position
         when 1
-          if variants_option1_arr[forloop.index0] == value and variants_available_arr[forloop.index0]
-            assign option_disabled = false
+          if variants_option1_arr[forloop.index0] == value
+            if product.variants[forloop.index0].incoming
+              assign option_disabled = false
+              assign variant_status = '- Incoming'
+              assign status_class = 'status-incoming'
+            elsif  variants_available_arr[forloop.index0]
+              assign option_disabled = false
+              assign variant_status = '- In Stock'
+              assign status_class = 'status-in-stock'
+            endif
           endif
         when 2
-          if option1_name == product.selected_or_first_available_variant.option1 and variants_option2_arr[forloop.index0] == value and variants_available_arr[forloop.index0]
-            assign option_disabled = false
+          if option1_name == product.selected_or_first_available_variant.option1 and variants_option2_arr[forloop.index0] == value
+            if product.variants[forloop.index0].incoming
+              assign option_disabled = false
+              assign variant_status = '- Incoming'
+            elsif  variants_available_arr[forloop.index0]
+              assign option_disabled = false
+              assign variant_status = '- In Stock'
+            endif
           endif
         when 3
-          if option1_name == product.selected_or_first_available_variant.option1 and variants_option2_arr[forloop.index0] == product.selected_or_first_available_variant.option2 and variants_option3_arr[forloop.index0] == value and variants_available_arr[forloop.index0]
-            assign option_disabled = false
+          if option1_name == product.selected_or_first_available_variant.option1 and variants_option2_arr[forloop.index0] == product.selected_or_first_available_variant.option2 and variants_option3_arr[forloop.index0] == value
+            if product.variants[forloop.index0].incoming
+              assign option_disabled = false
+              assign variant_status = 'Incoming'
+            elsif  variants_available_arr[forloop.index0]
+              assign option_disabled = false
+              assign variant_status = 'In Stock'
+            endif
           endif
       endcase
     endfor
@@ -82,24 +104,25 @@
       shape: block.settings.swatch_shape,
       help_text: label_unavailable
     %}
+    <span class="variant-status">{{ variant_status }}</span>
   {%- elsif picker_type == 'button' -%}
-    <input
-      type="radio"
-      id="{{ input_id }}"
-      name="{{ option.name }}"
-      value="{{ value | escape }}"
-      form="{{ product_form_id }}"
-      {% if option.selected_value == value %}
-        checked
-      {% endif %}
-      {% if option_disabled %}
-        class="disabled"
-      {% endif %}
-    >
-    <label for="{{ input_id }}">
-      {{ value -}}
-      {{ label_unavailable }}
-    </label>
+    {% unless option_disabled %}
+      <input
+        type="radio"
+        id="{{ input_id }}"
+        name="{{ option.name }}"
+        value="{{ value | escape }}"
+        form="{{ product_form_id }}"
+        {% if option.selected_value == value %}
+          checked 
+        {% endif %}
+      >
+      <label for="{{ input_id }}">
+        {{ value }}
+        <span class="variant-status {{ status_class }}">{{ variant_status }}</span>
+        {{ label_unavailable }}
+      </label>
+    {% endunless %}
   {%- elsif picker_type == 'dropdown' or picker_type == 'swatch_dropdown' -%}
     <option
       value="{{ value | escape }}"
@@ -114,6 +137,7 @@
         {{- 'products.product.value_unavailable' | t: option_value: value -}}
       {%- else -%}
         {{- value -}}
+        ({{ variant_status }})
       {%- endif %}
     </option>
   {%- endif -%}
