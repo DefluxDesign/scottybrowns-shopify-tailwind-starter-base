@@ -12,12 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
@@ -69,7 +63,6 @@
         }
       },
       "block_order": [
-        "title",
         "caption",
         "price",
         "custom_liquid_xD8D4t",
