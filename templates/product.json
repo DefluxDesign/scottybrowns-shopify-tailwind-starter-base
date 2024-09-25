@@ -69,6 +69,7 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "SHIPPING NEW ZEALAND",
             "icon": "truck",
@@ -78,6 +79,7 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "BULK ITEMS 10kg+ NEW ZEALAND",
             "icon": "none",
@@ -87,6 +89,7 @@
         },
         "collapsible_tab_VRPPtb": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "CLICK & COLLECT",
             "icon": "check_mark",
@@ -96,6 +99,7 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "SHIPPING AUSTRALIA - INTERNATIONAL",
             "icon": "truck",
@@ -105,6 +109,7 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "RETURNS",
             "icon": "return",
@@ -114,6 +119,7 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
