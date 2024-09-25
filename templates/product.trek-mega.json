@@ -1,9 +1,18 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner_H48AyA": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/rail-trek-fortunate-50_dc6d5e4a-e818-4367-9dbf-3d78a4a67815.webp",
+        "image": "shopify://shop_images/rail-trek-fortunate-50_dc6d5e4a-e818-4367-9dbf-3d78a4a67815.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -40,7 +49,7 @@
         "custom_liquid_xD8D4t": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"help-me\">\n<h3>PRE-ORDER - I WANT TO BE ONE OF THE FORTUNATE 50!<\/h3>\n<h4>GET IN TOUCH AND LET'S GET YOU AND YOUR MATES HOOKED UP<\/h4>\n<a href=\"tel:+6433663773\" class=\"button button--primary\" tabindex=\"-1\">03 366 3773<\/a>\n\n<a href=\"mailto:scotty@scottybrowns.com?subject=Trek%20Rail%20E-bike%20Mega%20Deal&body=Hey%20Scotty%20B,%0D%0A%0D%0AI'm%20reaching%20out%20to%20express%20my%20keen%20interest%20in%20being%20among%20the%20fortunate%2050%20to%20secure%20an%20exclusive%20deal%20on%20a%20Trek%20Rail%20E-Bike.%20Specifically,%20I'm%20eyeing%20the%20(model%20here),%20and%20I%20would%20want%20it%20in%20size%20(S,%20M,%20L,%20XL).\n\" class=\"button button--primary\" tabindex=\"-1\">scotty@scottybrowns.com<\/a>\n<\/div>"
+            "custom_liquid": "<div class=\"help-me\">\n<h3>PRE-ORDER - I WANT TO BE ONE OF THE FORTUNATE 50!</h3>\n<h4>GET IN TOUCH AND LET'S GET YOU AND YOUR MATES HOOKED UP</h4>\n<a href=\"tel:+6433663773\" class=\"button button--primary\" tabindex=\"-1\">03 366 3773</a>\n\n<a href=\"mailto:scotty@scottybrowns.com?subject=Trek%20Rail%20E-bike%20Mega%20Deal&body=Hey%20Scotty%20B,%0D%0A%0D%0AI'm%20reaching%20out%20to%20express%20my%20keen%20interest%20in%20being%20among%20the%20fortunate%2050%20to%20secure%20an%20exclusive%20deal%20on%20a%20Trek%20Rail%20E-Bike.%20Specifically,%20I'm%20eyeing%20the%20(model%20here),%20and%20I%20would%20want%20it%20in%20size%20(S,%20M,%20L,%20XL).\n\" class=\"button button--primary\" tabindex=\"-1\">scotty@scottybrowns.com</a>\n</div>"
           }
         },
         "collapsible_tab_7GBYK8": {
@@ -56,7 +65,7 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "<p><\/p>Buy Interest Free - 6 or 12 months with<\/p>\n    <!-- Latitude Snippet - Start -->\n<div id=\"latitude-product-widget\"><\/div>\n<!-- Latitude Snippet - End -->"
+            "custom_liquid": "<p></p>Buy Interest Free - 6 or 12 months with</p>\n    <!-- Latitude Snippet - Start -->\n<div id=\"latitude-product-widget\"></div>\n<!-- Latitude Snippet - End -->"
           }
         },
         "description": {
@@ -79,7 +88,7 @@
             "heading": "BULK ITEMS 10kg+ NEW ZEALAND",
             "icon": "none",
             "content": "",
-            "page": "bulky-items-10kg"
+            "page": "shipping-nz-bulky-items"
           }
         },
         "collapsible-row-2": {

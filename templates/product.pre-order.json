@@ -33,7 +33,7 @@
         "custom_liquid_xD8D4t": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"help-me\">\n<h3>Can't see your size, colour, thing?<\/h3>\n<h4>We could have it or get  it.WE KNOW PEOPLE.<\/h4>\n<a href=\"tel:+6433663773\" class=\"button button--primary\" tabindex=\"-1\">CALL US<\/a>\n\n<a href=\"mailto:scotty@scottybrowns.com\" class=\"button button--primary\" tabindex=\"-1\">EMAIL<\/a>\n<\/div>"
+            "custom_liquid": "<div class=\"help-me\">\n<h3>Can't see your size, colour, thing?</h3>\n<h4>We could have it or get  it.WE KNOW PEOPLE.</h4>\n<a href=\"tel:+6433663773\" class=\"button button--primary\" tabindex=\"-1\">CALL US</a>\n\n<a href=\"mailto:scotty@scottybrowns.com\" class=\"button button--primary\" tabindex=\"-1\">EMAIL</a>\n</div>"
           }
         },
         "variant_picker": {
@@ -67,7 +67,7 @@
         "custom_liquid_cmt8Xe": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<p><\/p>Buy Interest Free - 6 or 12 months with<\/p>\n    <!-- Latitude Snippet - Start -->\n<div id=\"latitude-product-widget\"><\/div>\n<!-- Latitude Snippet - End -->"
+            "custom_liquid": "<p></p>Buy Interest Free - 6 or 12 months with</p>\n    <!-- Latitude Snippet - Start -->\n<div id=\"latitude-product-widget\"></div>\n<!-- Latitude Snippet - End -->"
           }
         },
         "description": {
@@ -90,7 +90,7 @@
             "heading": "BULK ITEMS 10kg+ NEW ZEALAND",
             "icon": "none",
             "content": "",
-            "page": "bulky-items-10kg"
+            "page": "shipping-nz-bulky-items"
           }
         },
         "collapsible_tab_VRPPtb": {
