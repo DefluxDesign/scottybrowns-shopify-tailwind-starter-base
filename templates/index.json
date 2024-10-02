@@ -14,13 +14,14 @@
       "blocks": {
         "slide_KPePpA": {
           "type": "slide",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sandstorm_pre-orders-mobile_c8c305f4-20a1-4b92-8004-5126c809a21c.webp",
+            "image": "shopify://shop_images/Sandstorm_pre-orders-mobile_c8c305f4-20a1-4b92-8004-5126c809a21c.webp",
             "heading": "Sandstorm jersey",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "PRE-ORDER HERE",
-            "link": "https:\/\/scottybrowns.com\/pages\/limited-edition-sandstorm-jersey-preorders",
+            "link": "https://scottybrowns.com/pages/limited-edition-sandstorm-jersey-preorders",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": true,
@@ -32,13 +33,14 @@
         },
         "slide_te4HMa": {
           "type": "slide",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Specialized-spring-sale-03.jpg",
+            "image": "shopify://shop_images/Specialized-spring-sale-03.jpg",
             "heading": "Up to 30% off selected bikes",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Start Looking",
-            "link": "https:\/\/scottybrowns.com\/collections\/specialized-spring-sale",
+            "link": "https://scottybrowns.com/collections/specialized-spring-sale",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -51,12 +53,12 @@
         "slide_NWrKY6": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rapha_Banner_26b92fcc-2d89-4910-b500-e5c35e422cb2.jpg",
+            "image": "shopify://shop_images/Rapha_Banner_26b92fcc-2d89-4910-b500-e5c35e422cb2.jpg",
             "heading": "Rapha now available",
             "heading_size": "h2",
             "subheading": "We are excited to bring Rapha to the Emporium",
             "button_label": "Shop the Collection",
-            "link": "shopify:\/\/collections\/rapha",
+            "link": "shopify://collections/rapha",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -69,12 +71,12 @@
         "slide_GBDRwG": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Workshop_Banner_47db700c-4032-41fe-a7ea-19d839d63d51.jpg",
+            "image": "shopify://shop_images/Workshop_Banner_47db700c-4032-41fe-a7ea-19d839d63d51.jpg",
             "heading": "SB BIKE WORKSHOP",
             "heading_size": "h2",
             "subheading": "GIVE YOUR BIKE SOME LOVE",
             "button_label": "BOOK HERE",
-            "link": "https:\/\/scottybrowns.com\/pages\/bike-workshop",
+            "link": "https://scottybrowns.com/pages/bike-workshop",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": true,
@@ -88,12 +90,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SCOTTY-BROWNs-entrance.jpg",
+            "image": "shopify://shop_images/SCOTTY-BROWNs-entrance.jpg",
             "heading": "MAKE AN ENTRANCE",
             "heading_size": "h2",
             "subheading": "THE NEW BIKE EMPORIUM",
             "button_label": "COME VISIT",
-            "link": "https:\/\/scottybrowns.com\/pages\/get-intouch",
+            "link": "https://scottybrowns.com/pages/get-intouch",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -128,7 +130,7 @@
       "settings": {
         "title": "THE TREK RAIL, EBIKE MEGA DEAL....",
         "heading_size": "h1",
-        "description": "<p><strong>Don't miss out on this exclusive offer to Scotty Browns. <br\/><br\/><\/strong><a href=\"\/collections\/trek-rail-ebike-big-deal\" title=\"Trek Rail - Ebike  - Big Deal!\"><strong>MORE INFO HERE -&gt;<\/strong><\/a><\/p>",
+        "description": "<p><strong>Don't miss out on this exclusive offer to Scotty Browns. <br/><br/></strong><a href=\"/collections/trek-rail-ebike-big-deal\" title=\"Trek Rail - Ebike  - Big Deal!\"><strong>MORE INFO HERE -&gt;</strong></a></p>",
         "show_description": false,
         "description_style": "body",
         "collection": "trek-rail-ebike-big-deal",
@@ -272,7 +274,7 @@
             "text": "",
             "link_label": "",
             "link": "",
-            "html_content": "<div class=\"elfsight-sapp-a4794930-a750-11e8-a569-a5a7389306f4\"><\/div>"
+            "html_content": "<div class=\"elfsight-sapp-a4794930-a750-11e8-a569-a5a7389306f4\"></div>"
           }
         }
       },
@@ -299,7 +301,7 @@
     "image_banner_8PQD4E": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/sb-timeline-30-plus.svg",
+        "image": "shopify://shop_images/sb-timeline-30-plus.svg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -318,7 +320,7 @@
         "column_6CnCgX": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/proudly-local-blue.svg",
+            "image": "shopify://shop_images/proudly-local-blue.svg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -330,7 +332,7 @@
           "type": "column",
           "settings": {
             "title": "WELCOME TO SCOTTY BROWNS BIKE EMPORIUM",
-            "text": "<p> a Christchurch bike shop icon since 1992. <br\/><br\/>Our space is filled with a vibrant mix of bike history, collector's items, and cycling gems for all two-wheel enthusiasts. A visit is a must, and our team ensures you have an enjoyable experience in our stylish and trendsetting store.<br\/><\/p><p>We firmly believe that cycling is not just a sport but a lifestyle. The dedicated team at Scotty Brown's prioritizes customer focus, making your store visit exciting and enjoyable. We understand and respect your desire for premium service, a diverse selection, and expert advice.<br\/><br\/>Explore our store for trusted brands, offering a wide range of road bikes, mountain bikes, electric bikes, and gravel bikes for both serious racers and casual riders. Whether you're seeking a battery-powered option or an affordable first bike, we've got you covered. Additionally, our store is stocked with the latest cycling apparel, including exclusive Scotty Brown designs, accessories, and bike components.<br\/><br\/>Experience our exceptional bike workshop, where our knowledgeable team, each with over 22 years of experience, provides top-notch servicing. For all your bike servicing needs in Christchurch, drop by and see our skilled professionals. We offer various service options to suit your requirements.<br\/><br\/>Visit our store and meet our team - we look forward to welcoming you to our cutting-edge space!<\/p>",
+            "text": "<p> a Christchurch bike shop icon since 1992. <br/><br/>Our space is filled with a vibrant mix of bike history, collector's items, and cycling gems for all two-wheel enthusiasts. A visit is a must, and our team ensures you have an enjoyable experience in our stylish and trendsetting store.<br/></p><p>We firmly believe that cycling is not just a sport but a lifestyle. The dedicated team at Scotty Brown's prioritizes customer focus, making your store visit exciting and enjoyable. We understand and respect your desire for premium service, a diverse selection, and expert advice.<br/><br/>Explore our store for trusted brands, offering a wide range of road bikes, mountain bikes, electric bikes, and gravel bikes for both serious racers and casual riders. Whether you're seeking a battery-powered option or an affordable first bike, we've got you covered. Additionally, our store is stocked with the latest cycling apparel, including exclusive Scotty Brown designs, accessories, and bike components.<br/><br/>Experience our exceptional bike workshop, where our knowledgeable team, each with over 22 years of experience, provides top-notch servicing. For all your bike servicing needs in Christchurch, drop by and see our skilled professionals. We offer various service options to suit your requirements.<br/><br/>Visit our store and meet our team - we look forward to welcoming you to our cutting-edge space!</p>",
             "link_label": "",
             "link": "",
             "html_content": ""
